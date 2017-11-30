@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>About GOODCOOK</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div class="topnav" id="topnav">
+        <a href="javascript:void(0);" class="icon" onclick="expandTopnav()">&#9776;</a>
+        <a href="index.html">Home</a>
+        <a href="about.html" class="active">About</a>
+    </div>
+    <div id="container"></div>
+
+    <script src="js/stmd.js"></script>
+    <script src="js/render.js"></script>
+    <script src="js/topnav.js"></script>
+    <script type="text/javascript">
+        renderMarkdown('md/about.md');
+    </script>
+</body>
+</html>

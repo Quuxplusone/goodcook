@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>GOODCOOK</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div class="topnav" id="topnav">
+        <a href="javascript:void(0);" class="icon" onclick="expandTopnav()">&#9776;</a>
+        <a href="index.html" class="active">Home</a>
+        <a href="about.html">About</a>
+    </div>
+    <div id="container"></div>
+
+    <script src="js/stmd.js"></script>
+    <script src="js/render.js"></script>
+    <script src="js/topnav.js"></script>
+    <script type="text/javascript">
+        function is_ignorable(elt) {
+            if (elt === null) return false;
+            if (elt.nodeType === 8) return true;
+            if (elt.nodeType === 3 && /^\s*$/.test(elt.textContent)) return true;
+            return false;
+        }
+        renderMarkdown('md/recipes.md', function () {
+            var container = document.getElementById('container');
+            var elt = container.firstChild;
+            var currentRecipeElements = null;
+            while (elt) {
+                var currentChild = elt;
+                do {
+                    elt = elt.nextSibling;
+                } while (is_ignorable(elt));
+                if (currentChild.tagName == 'H2') {
+                    if (currentRecipeElements !== null) {
+                        container.insertBefore(
+                            createRecipeFromElements(currentRecipeElements),
+                            currentChild
+                        );
+                    }
+                    currentRecipeElements = [];
+                }
+                currentRecipeElements.push(currentChild);
+            }
+            if (currentRecipeElements !== null) {
+                container.appendChild(
+                    createRecipeFromElements(currentRecipeElements)
+                );
+            }
+        });
+    </script>
+</body>
+</html>
