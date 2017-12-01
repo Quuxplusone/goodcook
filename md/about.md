@@ -64,8 +64,37 @@ Virginia L. Downes
 April 8, 2012
 
 
+The Scout Cookbook
+------------------
+
+These are some of the things I served at Scout Courts of Honor and
+various other Scout events in 1995-02.  None are original; I've
+indicated the source if I can still identify it.  Some are
+extremely easy, others are tricky.  If you're looking for a good
+recipe source, I recommend the "Taste of Home" magazine published
+by Reiman Publications.  Let me know if you want a sample issue —
+they're that rare breed that will send a sample without making you
+sign up for a "trial" subscription first.  They also now have a
+magazine called "Quick Cooking"; some of my recipes are from that.
+And they also put out "Country" and "Country Extra", which carry
+recipes along with other features.  And they've also introduced
+"Light and Tasty", with low-cal, low-fat, etc.  recipes.
+
+The beverage recipes are grouped together at the back.  I find
+that beverages are much easier to serve from a pitcher, but
+whatever is in a punch bowl will usually disappear first — I
+guess it looks more "special".  I like to put a beach towel over
+the tablecloth under the beverages, to help sop up spills.  Also,
+I use 7-ounce cups rather than 9-ounce cups, to reduce waste.
+
+Virginia L. Downes
+August 15, 2005
+
+
+Drinks
+------
+
 The "Drinks" page presents some of my favorite cocktail recipes.
 
 Arthur O'Dwyer
 November 30, 2017
-

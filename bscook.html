@@ -3,16 +3,16 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>About GOODCOOK</title>
+    <title>BSCOOK</title>
     <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
     <div class="topnav" id="topnav">
         <a href="javascript:void(0);" class="onlymobile" onclick="expandTopnav()">&#9776;</a>
         <a href="index.html">Recipes</a>
-        <a href="bscook.html">Scouts</a>
+        <a href="bscook.html" class="active">Scouts</a>
         <a href="drinks.html">Drinks</a>
-        <a href="about.html" class="active">About</a>
+        <a href="about.html">About</a>
     </div>
     <div id="container"></div>
 
@@ -20,10 +20,10 @@
     <script src="js/render.js"></script>
     <script src="js/topnav.js"></script>
     <script type="text/javascript">
-        renderMarkdown('md/about.md');
+        renderRecipes('md/bscook.md');
     </script>
     <noscript>
-        <iframe width="100%" frameborder="0" height="1100px" src="md/about.md"></iframe>
+        <iframe width="100%" frameborder="0" height="27000px" src="md/bscook.md"></iframe>
     </noscript>
 </body>
 </html>
