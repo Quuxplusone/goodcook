@@ -14,18 +14,44 @@ function renderMarkdown(file, onload) {
     xhr.send();
 }
 
+function moveChildrenFrom(x, y) {
+    while (x.hasChildNodes()) {
+        y.appendChild(x.firstChild);
+    }
+}
+
+function createToggleArrow(e, pp) {
+    var icon = document.createElement('a');
+    icon.innerHTML = '<img src="css/down-arrow.svg"></img>'
+    icon.className = 'arrow downward';
+    icon.onclick = function() {
+        if (icon.className == 'arrow upward') {
+            icon.className = 'arrow downward';
+            e.style.display = 'none';
+        } else {
+            icon.className = 'arrow upward';
+            e.style.display = 'block';
+        }
+    }
+    return icon;
+}
+
 function createRecipeFromElements(elts) {
-    console.log(elts);
     var topDiv = document.createElement('div');
     topDiv.className = 'recipe';
 
+    var detailDiv = document.createElement('div');
+    detailDiv.className = 'recipe-detail nomobile';
+    detailDiv.style.display = 'none';
+
     console.assert(elts[0].tagName == 'H2');
-    elts[0].className = 'recipe-title';
+    var h2span = document.createElement('span');
+    moveChildrenFrom(elts[0], h2span);
+    elts[0].appendChild(createToggleArrow(detailDiv, '100'));
+    elts[0].firstChild.appendChild(h2span);
     topDiv.appendChild(elts[0]);
     elts.shift();
 
-    var detailDiv = document.createElement('div');
-    detailDiv.className = 'recipe-detail';
     topDiv.appendChild(detailDiv);
 
     // The recipe begins with a "Yield:" line.
@@ -34,14 +60,19 @@ function createRecipeFromElements(elts) {
     detailDiv.appendChild(elts[0]);
     elts.shift();
 
-    // Everything in <blockquote> is "recipe-commentary".
     var commentaryDiv = document.createElement('div');
-    commentaryDiv.className = 'recipe-commentary';
+    var commentaryHeading = document.createElement('h3');
+    commentaryHeading.className = 'onlymobile';
+    commentaryHeading.appendChild(createToggleArrow(commentaryDiv, '50'));
+    var foo = document.createElement('span'); foo.innerHTML = 'Commentary';
+    commentaryHeading.firstChild.appendChild(foo);
+    commentaryDiv.className = 'recipe-ingredients nomobile';
+    detailDiv.appendChild(commentaryHeading);
     detailDiv.appendChild(commentaryDiv);
+
+    // Everything in <blockquote> is "recipe-commentary".
     while (elts[0].tagName == 'BLOCKQUOTE') {
-        while (elts[0].hasChildNodes()) {
-            commentaryDiv.appendChild(elts[0].firstChild);
-        }
+        moveChildrenFrom(elts[0], commentaryDiv);
         elts.shift();
     }
 
@@ -51,10 +82,23 @@ function createRecipeFromElements(elts) {
     while (elts[lastListIndex].tagName != 'UL') --lastListIndex;
 
     var ingredientsDiv = document.createElement('div');
-    ingredientsDiv.className = 'recipe-ingredients';
+    var ingredientsHeading = document.createElement('h3');
+    ingredientsHeading.className = 'onlymobile';
+    ingredientsHeading.appendChild(createToggleArrow(ingredientsDiv, '50'));
+    var foo = document.createElement('span'); foo.innerHTML = 'Ingredients';
+    ingredientsHeading.firstChild.appendChild(foo);
+    ingredientsDiv.className = 'recipe-ingredients nomobile';
+    detailDiv.appendChild(ingredientsHeading);
     detailDiv.appendChild(ingredientsDiv);
+
     var stepsDiv = document.createElement('div');
-    stepsDiv.className = 'recipe-steps';
+    var stepsHeading = document.createElement('h3');
+    stepsHeading.className = 'onlymobile';
+    stepsHeading.appendChild(createToggleArrow(stepsDiv, '50'));
+    var foo = document.createElement('span'); foo.innerHTML = 'Steps';
+    stepsHeading.firstChild.appendChild(foo);
+    stepsDiv.className = 'recipe-steps nomobile';
+    detailDiv.appendChild(stepsHeading);
     detailDiv.appendChild(stepsDiv);
 
     for (var i = 0; i <= lastListIndex; ++i) {

@@ -71,11 +71,11 @@ flour and cornstarch until just blended.  Divide dough in half,
 shape each portion into a 1-inch-thick disk, wrap individually,
 and refrigerate until firm enough to roll out (4 hours or so).
 Working with one disk at a time, roll out on waxed paper to 1/8
-inch thick and cut out hearts with a 2-1/2 inch heart-shaped
+inch thick and cut out hearts with a 2.5-inch heart-shaped
 cookie cutter.  Slide the paper onto a baking sheet and freeze
 5 to 10 minutes until firm and easy to handle.  Peel the hearts
 off the paper and place them 1 inch apart on an ungreased
-baking sheet.  Cut a 1-1/2-inch-long slit at the bottom of
+baking sheet.  Cut a 1.5-inch-long slit at the bottom of
 each heart and spread apart gently to form wings.  Brush hearts
 with egg white, attach three almond slices on each side of the
 wing to represent the feathers, and sprinkle with sugar.  Bake
@@ -117,7 +117,7 @@ a toothpick inserted in the center of a muffin comes out clean.
 Apricot Raisin Chutney
 ----------------------
 
-Yield: about 2-1/2 cups
+Yield: about 2.5 cups
 
 > I clipped this recipe from an organic food catalog, although I don't
 > use organic ingredients.  This is really about half of the original
@@ -251,7 +251,7 @@ Frosting (optional):
 
 Drain the cherries, reserving 2 tablespoons juice for the
 frosting, if you're going to make it.  Dry the cherries on
-paper towels, then chop them — you need 1-1/4 cups of chopped
+paper towels, then chop them — you need 1+1/4 cups of chopped
 cherries for the cookies themselves, and 1/4 cup more for the
 frosting.
 
@@ -317,7 +317,7 @@ and/or garnish with whipped cream before serving.
 Buttermilk Pralines
 -------------------
 
-Yield: 1-1/2 pounds
+Yield: 1+1/2 pounds
 
 > This recipe originally came from Taste of Home, although I have
 > appended some modifications based on some other recipes. Make
@@ -590,7 +590,7 @@ quite soft while warm, but will crisp as they cool.
 Nutrient Value per cookie, assuming yield of 5 dozen:
 97 calories, 1 g protein, 6 g fat, 9 g carbohydrate,
 42 mg sodium, 14 mg cholesterol
-Exchanges:  1/5 starch/bread, 1/3 fruit, 1-1/3 fat
+Exchanges:  1/5 starch/bread, 1/3 fruit, 1+1/3 fat
 
 
 Curried Chicken Meatballs
@@ -720,7 +720,7 @@ Topping:
 
 Prepare dinner as directed on package, except boil the squash
 along with the macaroni. Stir in mozzarella, cheddar, and milk.
-Place in a greased 1-1/2 quart baking dish.
+Place in a greased 1.5-quart baking dish.
 
 For the topping: toss the bread crumbs with the melted butter
 and sprinkle them on the casserole. Then garnish with small
@@ -1171,7 +1171,7 @@ Yield: 4 servings
 - 1/4 cup reduced-sodium soy sauce
 - 2 teaspoons Oriental sesame oil
 
-Slice pork into 1/4-inch-thich slices.  Cut slices into 3x1/4-inch
+Slice pork into 1/4-inch-thick slices.  Cut slices into 3/4-inch
 strips.  Cook rice according to package directions.  Heat oil in
 12-inch skillet over medium heat.  If using regular onion, start by
 sauteing it until translucent.  Add cabbage, red pepper, and water.
@@ -1248,7 +1248,7 @@ Heat oven to 350°F.  Make a bed of onions in the roasting
 pan.  Rub brisket with garlic and add garlic to onions.  Sprinkle
 brisket with paprika and pepper.  (I usually just sprinkle with
 "Season-All", instead.) Put brisket fat side up on onions.  Add
-broth to pan; cover with foil.  Bake 2-1/2 hours or until "almost
+broth to pan; cover with foil.  Bake 150 minutes or until "almost
 tender" when pierced with a fork.  Remove foil, bake 30 minutes or
 until meat is tender and top is golden brown.  To serve, remove meat
 to serving platter or cutting board.  Cover loosely with foil; let
@@ -1337,7 +1337,7 @@ Yield: 6 to 8 servings
 
 In a skillet, cook sausage and onion until sausage is brown and
 onion is tender; drain.  Stir in apples, sauerkraut, water, brown
-sugar and caraway seed.  Transfer to a 2-1/2 quart baking dish.
+sugar and caraway seed.  Transfer to a 2.5-quart baking dish.
 Cover and bake at 350 degrees for one hour.  Garnish with parsley,
 if desired.
 
@@ -1440,7 +1440,7 @@ Yield: 8 to 10 servings
 > shrimp and almonds.  Ms.  Houchen suggests that it can be put
 > together the night before, and baked the following day.  If you're
 > starting out with raw, unpeeled shrimp, you may want to do that
-> anyway, just because it takes so long to peel 2-1/2 pounds of medium
+> anyway, just because it takes so long to peel 2.5 pounds of medium
 > shrimp.  I recommend starting out by buying shrimp that has already
 > been cooked, peeled, and deveined — you will probably still have to
 > remove the tails yourself, and touch up the deveining, but it will
@@ -1449,7 +1449,7 @@ Yield: 8 to 10 servings
 
 Shrimp:
 - 1 pound cooked, peeled, and deveined medium shrimp, OR
-- 2+1/2 pounds uncooked medium shrimp in the shell
+- 2.5 pounds uncooked medium shrimp in the shell
 - 3 quarts water
 - 1 tablespoon salt
 
@@ -1515,10 +1515,10 @@ Yield:  4 to 6 servings
 
 Sort and rinse split peas.  In a large, deep pot, combine peas,
 water, ham shank, onion, bouillon cubes, and seasonings.  Simmer,
-uncovered, for 1-1/2 hours.  Remove ham shank, trim meat off bone,
+uncovered, for 90 minutes.  Remove ham shank, trim meat off bone,
 and return meat to pot.  (At this point, I save out the ham that I
 don't want to puree, to be added back in later.) Stir in carrots and
-celery.  Simmer, uncovered, an additional 2 to 2-1/2 hours, or until
+celery.  Simmer, uncovered, an additional 2 to 2+1/2 hours, or until
 soup reaches desired thickness.  Remove and discard the bay leaf.
 Using a blender, puree the soup in batches and return it to the pot
 (actually, I use a second pot).  Chop the reserved ham, add it to
@@ -1550,7 +1550,7 @@ Yield: 4 to 6 servings
 - 1+1/2 teaspoons ground allspice
 - 1+1/2 pounds boneless round steak, cut into 1-inch cubes
 - 2 cups boiling water
-- 1-1/2 cups diced peeled potatoes
+- 1+1/2 cups diced peeled potatoes
 - 1 cup diced carrots
 - 1 cup frozen peas
 - pie pastry (9 to 10 inches)
@@ -1594,7 +1594,7 @@ Yield: 4 servings
 Place all ingredients in blender and process.  Pour into serving
 bowl.  Cover and chill at least 2 hours before serving.
 
-Diabetic Exchanges:  One serving equals 1-3/4 fruit, 1/4 skim-milk
+Diabetic Exchanges:  One serving equals 1+3/4 fruit, 1/4 skim-milk
 dairy, 1/4 fat; 133 calories, 3 gm protein, 29 gm carbohydrate,
 1 gm fat, 4 mg cholesterol, 40 mg sodium.
 

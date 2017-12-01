@@ -2,12 +2,13 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>About GOODCOOK</title>
     <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
     <div class="topnav" id="topnav">
-        <a href="javascript:void(0);" class="icon" onclick="expandTopnav()">&#9776;</a>
+        <a href="javascript:void(0);" class="onlymobile" onclick="expandTopnav()">&#9776;</a>
         <a href="index.html">Home</a>
         <a href="about.html" class="active">About</a>
     </div>
@@ -19,5 +20,8 @@
     <script type="text/javascript">
         renderMarkdown('md/about.md');
     </script>
+    <noscript>
+        <iframe width="100%" frameborder="0" height="1100px" src="md/about.md"></iframe>
+    </noscript>
 </body>
 </html>
