@@ -68,7 +68,7 @@ The Scout Cookbook
 ------------------
 
 These are some of the things I served at Scout Courts of Honor and
-various other Scout events in 1995-02.  None are original; I've
+various other Scout events in 1995–02.  None are original; I've
 indicated the source if I can still identify it.  Some are
 extremely easy, others are tricky.  If you're looking for a good
 recipe source, I recommend the "Taste of Home" magazine published
@@ -91,10 +91,13 @@ Virginia L. Downes
 August 15, 2005
 
 
-Drinks
-------
+Booze
+-----
 
-The "Drinks" page presents some of my favorite cocktail recipes.
+The "Booze" page presents some of Arthur's favorite cocktail recipes.
+This is not to be confused with the "Punch" page, which displays the
+beverage recipes originally located in BSCOOK (all of which are,
+naturally, non-alcoholic).
 
 Arthur O'Dwyer
 November 30, 2017

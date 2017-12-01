@@ -5,7 +5,7 @@ Dry Martini
 - 1 part dry vermouth (Martini & Rossi)
 - 4 parts vodka
 
-Shake with ice; strain carefully; garnish with pimento olives.
+Shake with ice; strain carefully; garnish with two pimento olives.
 
 
 Orange Bloom

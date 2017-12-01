@@ -432,6 +432,10 @@ Yield: 9 cups
 > wait to add the cashews until shortly before serving.(You'll
 > probably have to break up lumps after refrigeration, anyway.)
 
+> Nutrient Value per cup:
+> 349 calories, 7 g protein, 39 g carbohydrate, 2 g fiber,
+> 21 g fat (11 g saturated fat), 416 mg sodium, 0 mg cholesterol
+
 - 3 tablespoons mild vegetable oil
 - 1 medium onion, halved and thinly sliced
 - 1 clove garlic, chopped
@@ -456,10 +460,6 @@ fold in green onions and coconut, fluffing rice and breaking
 up any clumps.  Season with 1 teaspoon salt and pepper to taste.
 Garnish with cashews; serve hot or at room temperature.
 
-Nutrient Value per cup:
-349 calories, 7 g protein, 39 g carbohydrate, 2 g fiber,
-21 g fat (11 g saturated fat), 416 mg sodium, 0 mg cholesterol
-
 
 Corned Beef and Cabbage Dinner
 ------------------------------
@@ -470,7 +470,7 @@ Yield: 6 servings
 > feature many years ago. The primary difference from other
 > recipes I've seen is the additional step of baking with a
 > brown sugar / mustard topping, which is very tasty. Some other
-> recipes include parsnips among the vegetables, and beets --
+> recipes include parsnips among the vegetables, and beets —
 > although the beets are cooked separately, not in the pot with
 > the rest. My husband likes to have a horseradish sauce with
 > the cabbage.
@@ -566,6 +566,11 @@ Yield: 5 to 7 dozen
 > chip cookies on the cookie tray, so I somethimes add some purple
 > (paste) food coloring to help him tell them apart.
 
+> Nutrient Value per cookie, assuming yield of 5 dozen:
+> 97 calories, 1 g protein, 6 g fat, 9 g carbohydrate,
+> 42 mg sodium, 14 mg cholesterol
+> Exchanges:  1/5 starch/bread, 1/3 fruit, 1+1/3 fat
+
 - 1+1/2 cups sugar
 - 1 egg
 - 1 cup (2 sticks) unsalted butter, at room temperature
@@ -586,11 +591,6 @@ Drop batter by heaping teaspoonfuls one inch apart on a greased
 cookie sheet.  Bake at 350 degrees for 12 to 14 minutes, until
 edges are brown.  Remove to rack to cool.  The cookies will be
 quite soft while warm, but will crisp as they cool.
-
-Nutrient Value per cookie, assuming yield of 5 dozen:
-97 calories, 1 g protein, 6 g fat, 9 g carbohydrate,
-42 mg sodium, 14 mg cholesterol
-Exchanges:  1/5 starch/bread, 1/3 fruit, 1+1/3 fat
 
 
 Curried Chicken Meatballs
@@ -729,43 +729,6 @@ or shredded cheddar.
 
 Bake at 375 degrees for 20 to 25 minutes, until the topping is
 as brown as you like.
-
-
-Dunkable Brownies
------------------
-
-Yield:  about 6 dozen
-
-> This recipe was really named "BAKER'S One Bowl Chocolate Brownie
-> Cookies"  in the magazine ad it came from, and (of course) called
-> specifically for BAKER'S chocolate and CALUMET baking powder.  I
-> usually have unsweetened baking chocolate on hand, but not usually
-> semi-sweet or bittersweet, so I usually substitute 6 ounces (1 cup)
-> of semi-sweet chocolate bits.  You can easily toast nuts in the
-> microwave — use high power and stir frequently; remember they
-> may continue to darken after you take them out of the oven.
-
-- 6 ounces semi-sweet or bittersweet baking chocolate
-- 4 ounces unsweetened baking chocolate
-- 6 tablespoons butter
-- 1+1/4 cups sugar
-- 3 eggs
-- 2 teaspoons vanilla
-- 1 cup flour
-- 1 teaspoon baking powder
-- 1/4 teaspoon salt
-- 2 cups toasted chopped walnuts (optional)
-
-Heat oven to 325 degrees.  Microwave chocolate and butter in a
-large microwavable bowl on high for 1.5 to 2 minutes, or until
-chocolate is almost melted, stirring halfway through heating time.
-Stir until chocolate is completely melted and smooth.  Stir sugar
-into chocolate until blended.  Mix in eggs and vanilla.  Stir in
-flour, baking powder, and salt.  Stir in nuts.  Drop by rounded
-teaspoonfuls, 1 inch apart, onto ungreased baking sheet.  Bake
-12 minutes or until set.  *DO NOT OVERBAKE.*  Cool 5 minutes;
-remove from cookie sheet.  Cool completely on wire racks.  Store
-in an airtight container.
 
 
 Frangipane Tart
@@ -997,6 +960,22 @@ Yield: 8 to 12 servings
 > too hung up on the exact size of the cans — manufacturers seem to
 > change the sizes over the years.
 
+> Notes:  I always omit the celery, because Tony doesn't like it, and
+> I cut back the oregano a bit, too.  For the can of tomatoes, I use
+> Del Monte Fresh Cut Diced Tomatoes, which actually come in a 14.5
+> ounce can.  If you use whole tomatoes, you will want to break them
+> up before putting them in — putting them in a bowl and using a
+> potato masher is a fast way to do it.
+
+> Sometimes, I substitute a 19-ounce can of Cannellini (white kidney
+> beans) for the red kidney beans.  Also, if I don't have any plain
+> tomato sauce, I use a 15-ounce can of Hunt's Ready Original Italian
+> Style tomato sauce, and omit the oregano and basil.
+
+> Diabetic Exchanges:  One serving equals 1 protein, 1 bread; also
+> 152 calories, 776 mg sodium, 34 mg cholesterol, 17 gm carbohydrate,
+> 12 gm protein, 4 gm fat.  (Figured at the optimistic 12 servings)
+
 - 1 pound ground beef
 - 1 cup diced onion
 - 1 cup sliced celery
@@ -1023,22 +1002,6 @@ heat; cover and simmer 20 minutes.  Add cabbage, green beans, and
 macaroni; bring to boil and simmer until vegetables are tender.  If
 you prefer a thinner soup, add additional water or broth.  Sprinkle
 with the Parmesan cheese before serving, if desired.
-
-Diabetic Exchanges:  One serving equals 1 protein, 1 bread; also
-152 calories, 776 mg sodium, 34 mg cholesterol, 17 gm carbohydrate,
-12 gm protein, 4 gm fat.  (Figured at the optimistic 12 servings)
-
-Notes:  I always omit the celery, because Tony doesn't like it, and
-I cut back the oregano a bit, too.  For the can of tomatoes, I use
-Del Monte Fresh Cut Diced Tomatoes, which actually come in a 14.5
-ounce can.  If you use whole tomatoes, you will want to break them
-up before putting them in — putting them in a bowl and using a
-potato masher is a fast way to do it.
-
-Sometimes, I substitute a 19-ounce can of Cannellini (white kidney
-beans) for the red kidney beans.  Also, if I don't have any plain
-tomato sauce, I use a 15-ounce can of Hunt's Ready Original Italian
-Style tomato sauce, and omit the oregano and basil.
 
 
 Korean Beef Patties
@@ -1159,6 +1122,8 @@ Yield: 4 servings
 > ginger in place of the chopped fresh ginger.  Sometimes, I even add
 > some chopped dried apricot or currants, just to liven it up.
 
+> Exchanges: 1+1/2 starch/bread, 2+1/2 vegetable, 2+1/2 lean meat, 1 fat.
+
 - 3/4 pound trimmed boneless pork loin
 - 1 cup quick-cooking brown rice
 - 1 tablespoon olive oil
@@ -1183,8 +1148,6 @@ that you can do this much up to 2 days ahead, and keep refrigerated
 until ready to proceed.) Stir soy sauce and sesame oil into rice
 mixture; cook 2 minutes.  (If reheating, heat sesame oil in skillet,
 then add rice mixture and soy sauce; cook 3 to 5 minutes.)
-
-Exchanges: 1+1/2 starch/bread, 2+1/2 vegetable, 2+1/2 lean meat, 1 fat.
 
 
 Puffy Cheese Bake
@@ -1585,6 +1548,10 @@ Yield: 4 servings
 > to refrigerate it for 2 hours.  I sometimes substitute vanilla
 > yogurt for plain, and reduce the sugar a little.
 
+> Diabetic Exchanges:  One serving equals 1+3/4 fruit, 1/4 skim-milk
+> dairy, 1/4 fat; 133 calories, 3 gm protein, 29 gm carbohydrate,
+> 1 gm fat, 4 mg cholesterol, 40 mg sodium.
+
 - 1 bag (20 ounces) unsweetened frozen strawberries, thawed
 - 1/2 cup low-fat milk
 - 1/2 cup plain low-fat yogurt
@@ -1593,10 +1560,6 @@ Yield: 4 servings
 
 Place all ingredients in blender and process.  Pour into serving
 bowl.  Cover and chill at least 2 hours before serving.
-
-Diabetic Exchanges:  One serving equals 1+3/4 fruit, 1/4 skim-milk
-dairy, 1/4 fat; 133 calories, 3 gm protein, 29 gm carbohydrate,
-1 gm fat, 4 mg cholesterol, 40 mg sodium.
 
 
 Streusel-Topped Pumpkin Pie
