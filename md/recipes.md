@@ -1695,8 +1695,6 @@ and crispy. Finish with salt. Serve hot.
 Thanksgiving Dinner Menu
 ------------------------
 
-Yield: N/A
-
 > This is a typical Thanksgiving menu in our family.  My mother
 > would have served stuffed pork chops, rather than turkey, since my
 > younger sister had trouble tolerating turkey.  And she would have

@@ -60,9 +60,11 @@ the directions.  Similarly, if I just say "flour", I mean
 all-purpose flour.  I will explicitly indicate if some other type
 of flour is to be used.
 
-
 Virginia L. Downes
 April 8, 2012
+
+
+The "Drinks" page presents some of my favorite cocktail recipes.
 
 Arthur O'Dwyer
 November 30, 2017

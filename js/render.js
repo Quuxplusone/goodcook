@@ -54,11 +54,12 @@ function createRecipeFromElements(elts) {
 
     topDiv.appendChild(detailDiv);
 
-    // The recipe begins with a "Yield:" line.
-    console.assert(elts[0].tagName == 'P');
-    elts[0].className = 'recipe-yield';
-    detailDiv.appendChild(elts[0]);
-    elts.shift();
+    // The recipe might begin with a "Yield:" line.
+    if (elts[0].tagName == 'P') {
+        elts[0].className = 'recipe-yield';
+        detailDiv.appendChild(elts[0]);
+        elts.shift();
+    }
 
     var commentaryDiv = document.createElement('div');
     var commentaryHeading = document.createElement('h3');
@@ -108,4 +109,40 @@ function createRecipeFromElements(elts) {
         stepsDiv.appendChild(elts[i]);
     }
     return topDiv;
+}
+
+function renderRecipes(file) {
+    var is_ignorable = function (elt) {
+        if (elt === null) return false;
+        if (elt.nodeType === 8) return true;
+        if (elt.nodeType === 3 && /^\s*$/.test(elt.textContent)) return true;
+        return false;
+    };
+
+    renderMarkdown(file, function () {
+        var container = document.getElementById('container');
+        var elt = container.firstChild;
+        var currentRecipeElements = null;
+        while (elt) {
+            var currentChild = elt;
+            do {
+                elt = elt.nextSibling;
+            } while (is_ignorable(elt));
+            if (currentChild.tagName == 'H2') {
+                if (currentRecipeElements !== null) {
+                    container.insertBefore(
+                        createRecipeFromElements(currentRecipeElements),
+                        currentChild
+                    );
+                }
+                currentRecipeElements = [];
+            }
+            currentRecipeElements.push(currentChild);
+        }
+        if (currentRecipeElements !== null) {
+            container.appendChild(
+                createRecipeFromElements(currentRecipeElements)
+            );
+        }
+    });
 }
