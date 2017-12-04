@@ -937,7 +937,7 @@ Icing:
 - 3 tablespoons milk
 
 In a large bowl, cream butter and sugars until light and fluffy.
-Beat in egg and pumpkin. Combine the flours,baking powder,salt,
+Beat in egg and pumpkin. Combine the flours, baking powder, salt,
 baking soda, and spices; gradually add to creamed mixture and
 mix well. Stir in the granola, walnuts, chips and cranberries.
 Drop by tablespoonfuls 2 inches apart onto greased baking sheets.
@@ -1273,6 +1273,25 @@ consistency.  (The original recipe specified using a blender;
 maybe mine is just old, but it doesn't do very well with this
 mixture.  I had to add a fair amount of extra water to appease
 it.)  Transfer the dip to a bowl and refrigerate until serving.
+
+
+Pumpkin Seeds
+-------------
+
+Yield: 2 cups
+
+> This recipe is similar to ones from Allrecipe and GeniusKitchen.
+> One of these sites says to bake for 1 hour; the other says to
+> bake for 2 hours. Arthur thinks 2 hours is closer to the truth.
+
+- 2 cups raw pumpkin seeds
+- 1+1/2 tablespoons butter, softened or melted
+- 2 teaspoons Worcestershire sauce
+- 1 teaspoon salt
+
+Toss together all the ingredients, spread in a single layer on a
+foil-lined baking sheet, and bake at 250 degrees for 2 hours.
+To ensure they brown evenly, stir them around every 30 minutes or so.
 
 
 Sauerkraut Casserole

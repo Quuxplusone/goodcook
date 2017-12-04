@@ -1852,10 +1852,10 @@ Yield:  13x9-inch pan
 > instead of hearts.  And I think I used one package of cherry and
 > one package of grape gelatin; you could use other flavors, too.
 
-- 2 packages (6 oz. each) cherry or raspberry gelatin
+- 2 packages (6 oz each) cherry or raspberry gelatin
 - 2+1/2 cups boiling water
 - 1 cup cold milk
-- 1 package (3.4 oz.) instant vanilla pudding mix
+- 1 package (3.4 oz) instant vanilla pudding mix
 
 In a bowl, dissolve gelatin in water; set aside for 30 minutes.
 In a small bowl, whisk milk and pudding mix until smooth, about
