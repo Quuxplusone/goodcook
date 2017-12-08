@@ -137,7 +137,7 @@ muffin batter.)
 Brown Sugar Pecan Shortbread
 ----------------------------
 
-Yield:  4 to 5 dozen
+Yield: 4 to 5 dozen
 
 > This recipe is from the 3/13/01 issue of Family Circle magazine.
 > It's very easy to make, and delicious.  I've provisionally put in
@@ -176,7 +176,7 @@ to cool, then remove the cookies.
 Butter Pecan Turtle Cookies
 ---------------------------
 
-Yield: one 9x13-inch pan
+Yield: one 13 x 9-inch pan
 
 > This recipe is from the inside of a butter carton.  The original
 > recipe only called for 1 cup of pecans, but that looked too sparse,
@@ -219,11 +219,11 @@ Cherry-Cheese Danish for a Crowd
 
 Yield: 1 jelly roll pan
 
-This recipe came from the 9/1/94 issue of Woman's Day, and was
-attributed to Irene Gregorczyk.  I imagine that you could try
-other pie fillings in it besides cherry, although I never have.
-This does not have to be refrigerated immediately; it can be
-baked and kept at room temperature for up to one day.
+> This recipe came from the 9/1/94 issue of Woman's Day, and was
+> attributed to Irene Gregorczyk.  I imagine that you could try
+> other pie fillings in it besides cherry, although I never have.
+> This does not have to be refrigerated immediately; it can be
+> baked and kept at room temperature for up to one day.
 
 - 2 packages (8 oz. each) cream cheese, at room temperature
 - 1/2 cup sugar
@@ -263,7 +263,7 @@ Exchanges:  1 starch/bread, 1 fruit, 3 fat
 Chewy Granola Bars
 ------------------
 
-Yield: one 9x13-inch pan
+Yield: one 13 x 9-inch pan
 
 > This recipe was contributed to Taste of Home magazine by Virginia
 > Krites, of Cridersville, Ohio in a "Motoring Munchies" feature.
@@ -301,13 +301,13 @@ Chocolate Chip Coins
 
 Yield: 7 dozen from 1.5-inch rolls
 
-This recipe came from a "Bake Sale" feature in the 9/14/99 issue
-of Woman's Day.  It claims to make 360 cookies from 1-inch rolls,
-"perfect for snacking by the handful".  For Courts of Honor, I
-prefer to make them bigger, and discourage the handfuls.  An
-advantage of this recipe over ordinary chocolate chip cookies is
-that the rolls of dough can be prepared and frozen well ahead of
-time, with only the baking left to be done on the last day or two.
+> This recipe came from a "Bake Sale" feature in the 9/14/99 issue
+> of Woman's Day.  It claims to make 360 cookies from 1-inch rolls,
+> "perfect for snacking by the handful".  For Courts of Honor, I
+> prefer to make them bigger, and discourage the handfuls.  An
+> advantage of this recipe over ordinary chocolate chip cookies is
+> that the rolls of dough can be prepared and frozen well ahead of
+> time, with only the baking left to be done on the last day or two.
 
 - 1 cup butter, softened
 - 1/2 cup packed brown sugar
@@ -595,7 +595,7 @@ squares.
 Dunkable Brownies
 -----------------
 
-Yield:  about 6 dozen
+Yield: about 6 dozen
 
 > This recipe was really named "BAKER'S One Bowl Chocolate Brownie
 > Cookies" in the magazine ad it came from, and (of course) called
@@ -1128,7 +1128,7 @@ be reduced a little for the larger pan.)
 Martha Logan's Saucepan Brownies
 --------------------------------
 
-Yield: 13 X 9-inch pan
+Yield: one 13 x 9-inch pan
 
 > This was contributed to the Maryland Line Methodist Church "Over
 > the Line" cookbook by Mrs. Barbara J. Groth.  The original
@@ -1273,6 +1273,7 @@ consistency.) Drizzle over cooled cake; cut into bars.
 
 
 "Nuts for Chocolate" Bars
+-------------------------
 
 Yield: one 13 x 9-inch pan
 
@@ -1308,7 +1309,7 @@ into bars.
 Nutty Cheesecake Squares
 ------------------------
 
-Yield: 13-in. x 9-in. pan
+Yield: one 13 x 9-inch pan
 
 > This is another recipe from one of the Reiman publications.  It
 > was contributed by Ruth Simon, of Buffalo, New York.  I was
@@ -1378,7 +1379,7 @@ removing from sheet.
 Oatmeal Raisin Crisp Cookies
 ----------------------------
 
-Yield: 2 9x13-inch pans
+Yield: two 13 x 9-inch pans
 
 This recipe is from the August/September 1996 issue of "Taste of
 Home".  It was contributed by Annie Beiler, of Leola,
@@ -1455,7 +1456,7 @@ rack to cool completely.  Dust top with confectioners' sugar.
 Peanut Butter Chocolate-Crunch Treats
 -------------------------------------
 
-Yield: one 9-in x 13-in pan
+Yield: one 13 x 9-inch pan
 
 > This recipe is from the 6/4/96 issue of "Woman's Day" magazine.
 > I've changed the directions to make it a little easier to handle.
@@ -1484,11 +1485,11 @@ Peanut Butter Cookies
 
 Yield: about 4 dozen
 
-This is the recipe my mother used; I don't know where she got it.
-You can use either creamy or chunky peanut butter, depending on
-whether or not you want your cookies to be chunky.  Watch out for
-reduced-fat peanut butter, though — that will not give the same
-texture.
+> This is the recipe my mother used; I don't know where she got it.
+> You can use either creamy or chunky peanut butter, depending on
+> whether or not you want your cookies to be chunky.  Watch out for
+> reduced-fat peanut butter, though — that will not give the same
+> texture.
 
 - 1 cup flour
 - 1/2 teaspoon baking soda
@@ -1714,7 +1715,7 @@ sheets until they are cool.
 Sugar Cookies
 -------------
 
-Yield:  varies with size of cookies
+Yield: varies with size of cookies
 
 > This is my family's traditional Christmas sugar cookie recipe.  My
 > mother got it from her oldest sister.  The mace gives them an
@@ -1745,7 +1746,7 @@ from just right to overdone very quickly.)
 Sweet Almond Bread
 ------------------
 
-Yield:  2 round loaves
+Yield: 2 round loaves
 
 > This was contributed to "Quick Cooking" magazine by Sally Ball,
 > from Gladwin, Michigan.  She recommends using it as a breakfast
@@ -1802,7 +1803,7 @@ the bread machine.
 Toffee-Topped Bars
 ------------------
 
-Yield:  13x9-inch pan
+Yield: one 13 x 9-inch pan
 
 > This recipe was on a "Great American Home Baking" card that came
 > in the mail — part of a set that they hoped you would want to
@@ -1844,7 +1845,7 @@ to 5 days.
 Valentine Cutouts
 -----------------
 
-Yield:  13x9-inch pan
+Yield: one 13 x 9-inch pan
 
 > This recipe came from "Taste of Home" magazine.  It was
 > contributed by Annette Ellyson of Carolina, West Virginia.  I made
@@ -1867,7 +1868,7 @@ Cut into cubes or use a heart-shaped cutter.
 Walnut-Raisin Bread
 -------------------
 
-Yield:  1 loaf
+Yield: 1 loaf
 
 > This recipe came from "Country" magazine.  It was submitted by
 > Charles Stuller, of Winter Haven, Florida.  I found that the
