@@ -1125,6 +1125,100 @@ crunchier crust than I remember.  Probably the temperature should
 be reduced a little for the larger pan.)
 
 
+Macadamia-Lime Bars
+-------------------
+
+Yield: one 13 x 9-inch pan
+
+> This was adapted from a Kraft recipe called "Macadamia-Lime
+> Snowflakes". That recipe cut eleven 3-inch snowflakes
+> out of the pan, and suggested that the scraps could be
+> for snacking. My intention from the start was to make
+> more modest sized bars rather than fancy shapes. But
+> then, when I was licking the beaters after putting the
+> pan in the oven, I realized that it didn't seem to have
+> much lime flavor. Looking at the recipe again, I realized
+> that it had called for two tablespoons of grated rind,
+> and I had only put in two teaspoons. So I decided to
+> make a glaze similar to the lebkuchen glaze, but with
+> lime juice instead of lemon juice. (And since the batter
+> had used only the rind, I did have the juice available.)
+> I liked the result so much that I've made it that way
+> ever since. Cut these into small pieces; they're very
+> sweet/rich.
+
+- 3/4 cup butter, softened
+- 1+1/2 cup firmly packed light brown sugar
+- grated lime zest as desired (up to 2 tablespoons)
+- 2 eggs
+- 1+1/2 cups flour
+- 1 teaspoon baking powder
+- 1 cup white chocolate chips
+- 1 cup macadamia nuts, toasted and coarsely chopped
+
+Glaze:
+- 1 cup confectioners' sugar
+- 2 tablespoons lime juice
+- 1/4 teaspoon vanilla extract
+
+Prepare the pan: the original recipe called for lining
+with foil, leaving "ears" to lift the cooked bars out
+of the pan to cut. You can do that if you like, but I
+find it sufficient to line the bottom of the pan with
+parchment paper. Either way, grease it. (I use a spritz
+of cooking spray.)
+
+Beat butter, sugar, and zest until light and fluffy.
+Blend in eggs, flour, and baking powder. Add chips
+and nuts. Spread in prepared pan and bake at 350°F
+for 20-25 minutes "or until a toothpick
+inserted in the center comes out clean". I think these
+are best when they're baked a little less than that
+– more like a fudgy brownie than a cake-like one.
+While the bars are baking, combine the glaze ingredients.
+Pour the glaze over the bars while they're still warm,
+but not immediately out of the oven; maybe after five
+minutes or so.  Let cool completely, then cut into
+small bars.
+
+
+Martha's Famous Sugar Plum Cookies
+----------------------------------
+
+Yield: 2 dozen
+
+> This recipe was promoted by Round House Theatre in
+> connection with a holiday production in 2014. They
+> are very tasty.  I use the "quick" oats, but regular
+> should be fine; instant probably wouldn't do.
+
+- 1/4 cup maple syrup
+- 1/2 cup vegetable oil
+- 1 teaspoon vanilla extract
+- 1/2 cup dark brown sugar
+- 3/4 cup flour
+- 2 teaspoons baking powder
+- 1 teaspoon baking soda
+- 1/4 teaspoon cinnamon
+- 1/4 teaspoon nutmeg
+- 1/4 teaspoon allspice
+- pinch of salt
+- 1 cup rolled oats
+- 1/2 cup finely chopped walnuts
+- 1/2 cup chopped dried plums (prunes)
+
+Mix together liquids and sugar. Add flour, leavening,
+salt, and spices. Fold in oats, nuts, and fruit.
+Use a lightly greased cookie sheet. The original recipe
+says to "roll into balls." Actually, this is a loose
+dough that doesn't hold together well. It's more a matter
+of mounding it together than rolling in balls. Leave
+some space for the cookies to spread as they cook.
+Bake at 350°F for 11 minutes. Allow to cool on
+the cookie sheet for several minutes before gently
+removing to a rack to finish cooling.
+
+
 Martha Logan's Saucepan Brownies
 --------------------------------
 
@@ -1507,6 +1601,36 @@ minutes.  Add dry ingredients and beat 1 minute more.  Drop by
 teaspoonfuls onto a greased cookie sheet.  Press lightly with a
 fork dipped in flour or water, making a criss-cross pattern.  Bake
 at 325 degrees for 8 to 10 minutes, or until done.
+
+
+Peanut Butter Snowballs
+-----------------------
+
+Yield: 4 dozen
+
+> This recipe was promoted by the Giant supermarket
+> chain in 2017. These are less messy to eat if they're
+> made small enough to eat in one bite, so use a level
+> cookie scoop of dough for each, rather than a heaping
+> one. And I suspect it's better to underbake than
+> overbake.
+
+- 1 cup butter, softened
+- 2/3 cup sugar
+- 1/4 teaspoon salt
+- 2/3 cup chunky peanut butter
+- 2+1/2 cups flour
+- 1/2 cup hot chocolate mix
+- 3/4 cup confectioners' sugar, sifted
+
+Beat butter, sugar, and salt until light and fluffy.
+Beat in the peanut butter. Add the flour and hot
+chocolate mix and beat until just combined. Scoop
+and roll into 1-inch balls and place on two parchment-lined
+baking sheets. Bake at 350°F for 12–15
+minutes "or until bottoms are golden brown". Let cool
+completely on baking sheets. Roll each cookie in the
+sifted confectioners' sugar until completely coated.
 
 
 Poppy Seed Bread
