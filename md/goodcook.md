@@ -606,6 +606,10 @@ Yield: 32 to 36 meatballs
 > since it is a certain amount of hassle to make, so I want to at
 > least get two meals out of it.
 
+> Arthur adds: Making a double recipe is absolutely mandatory!
+> To make a low-carb version, replace the 1 cup of bread crumbs
+> with 1 cup of almond flour and 1 additional egg.
+
 Meatballs:
 - 1 cup fresh bread crumbs
 - 1/3 cup finely chopped green onion
@@ -625,24 +629,27 @@ Creamy Chutney Sauce:
 Combine bread crumbs, green onion, almonds, curry powder, salt,
 and pepper.  Mix in the egg, then the ground chicken.  Mix well
 with wet hands until the mixture is thoroughly blended.  Next you
-need to shape it into meatballs, each "the size of a walnut".  I
-find this easiest to do as follows.  Line an 8x8 pan with waxed
-paper, leaving "ears" at each end for easy removal.  Spray with
-Pam.
+need to shape it into meatballs, each "the size of a walnut".
+Mom's recipe describes a complex protocol for shaping such small
+meatballs; Arthur and Sam have found it unnecessary. However,
+you should make the meatballs "smaller than you'd think."
 
-Pat the meat mixture evenly into the pan.  Place in the
-freezer briefly.  When ready to proceed, heat oven to 375°F.
+Mom's protocol for shaping the meatballs is as follows:  Line
+an 8x8 pan with waxed paper, leaving "ears" at each end for
+easy removal.  Spray with Pam. Pat the meat mixture evenly
+into the pan.  Place in the freezer briefly while the oven
+preheats. Use the "ears" to remove the meat mixture from the pan
+to a cutting board. Cut into 32 or 36 sections (4x8 or 6x6).
+With wet hands, shape each section into one meatball and place
+on the rack.
+
 Prepare a greased rack in a shallow pan — keep in mind that these
 will be small, tender meatballs.  Unless your rack has really small
 openings, you will probably want to cover it with aluminum foil,
 poking holes in the foil with a knife tip.  (And even if you do
 have a rack with really small openings, you may want the foil
-anyway, to prevent the meatballs from sticking.)  Use the "ears"
-to remove the meat mixture from the pan to a cutting board.
-Cut into 32 or 36 sections (4x8 or 6x6).  With wet hands, shape
-each section into one meatball and place on the rack.  Bake 20
-minutes.  Serve warm or at room temperature with Creamy Chutney
-Sauce.
+anyway, to prevent the meatballs from sticking.)  Bake at 375°F for
+20 minutes.  Serve warm with Creamy Chutney Sauce.
 
 To make sauce: place chutney and sour cream in a small blender
 container.  Process (I use the "Mix" setting) until well chopped
