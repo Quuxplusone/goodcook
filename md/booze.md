@@ -47,6 +47,22 @@ Alternatively, mix mass quantities in an empty cocktail shaker
 and pour over ice cubes.
 
 
+Sazerac Martini
+---------------
+
+> This is a Sazerac modified for the carb-conscious.
+> Of course if you're carb-conscious you might omit the cherry.
+
+- 1 parts brandy (Presidente)
+- 1 parts bourbon (Bulleit)
+- 1 parts dry vermouth (Martini & Rossi)
+- 1 dash Benedictine
+- 1 dash orange blossom water
+- 2 dashes Peychaud's bitters
+
+Shake with ice; serve neat in a martini glass. Garnish with a cherry.
+
+
 The Unknown
 -----------
 
