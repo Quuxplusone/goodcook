@@ -834,6 +834,89 @@ Remove from heat.  Stir in coconut and pecans.  Cool to room
 temperature and spreading consistency.
 
 
+Guinness Chocolate Cake
+-----------------------
+
+Yield: 1 loaf pan plus 5 cupcakes
+
+> This recipe comes from "Morgan" on hostthetoast.com (March 2016).
+> The original recipe is named "Malted Guinness Chocolate Cake with
+> Baileys Frosting." However, we have never yet found malted milk
+> powder at the supermarket, so we always skip that ingredient or
+> replace it with a little milk or heavy cream.
+>
+> The original icing recipe makes about twice as much as you need
+> for the cake. What follows is a half-recipe.
+>
+> The cake is good by itself, but the icing makes it much better.
+> Arthur claims that the chocolate curls are optional.
+
+Cake:
+- 1 cup Guinness stout beer
+- 1+1/2 sticks (12 tablespoons) unsalted butter
+- 2 ounces semisweet chocolate, chopped
+- 3/4 cup dark cocoa powder, divided
+- 1/2 cup malted milk powder
+- 1+3/4 cup granulated sugar
+- 3/4 cup sour cream
+- 2 eggs
+- 1+1/3 cups all-purpose flour
+- 2 tablespoons cornstarch
+- 1/2 tablespoon baking soda
+- 1/2 teaspoon salt
+
+Frosting:
+- 1 stick (8 tablespoons) unsalted butter, softened at room temperature
+- 1 cup powdered sugar, plus more, if needed
+- 1/8 cup Baileys Irish Cream liqueur
+- 1/4 teaspoon salt
+
+Chocolate curls:
+- 3 ounces semisweet chocolate
+- 1 tablespoon vegetable shortening
+
+Heat oven to 350 degrees. Grease a 1.5-pound loaf pan, then sprinkle with
+1/4 cup cocoa powder. Shake the cocoa powder around to coat.
+
+In a large pot over medium heat, combine the Guinness, butter, and
+semisweet chocolate. Heat until melted and smooth, stirring occasionally.
+Remove the pot from the heat and stir in the remaining 1/2 cup cocoa powder
+and the malted milk powder. Once well-combined, stir in the sugar.
+Let cool for 10 minutes. Once the chocolate mixture has cooled, stir in
+the sour cream and eggs.
+
+In a large bowl, whisk together the flour, cornstarch, baking soda, and
+salt. Add the dry mixture to the chocolate mixture and stir until just
+combined.
+
+Pour the cake batter into the loaf pan and smooth with a rubber spatula
+or the back of a spoon. Bake for 45 minutes, or until a toothpick inserted
+into the center of the cake comes out clean. Once finished baking, let sit
+in the pan for 15 minutes to cool, then gently remove from the pan and
+transfer to a wire rack to finish cooling.
+
+While the cake bakes and cools, make the frosting. In a stand mixer
+or a large bowl using a hand mixer, beat the butter until fluffy.
+Add in the powdered sugar, a bit at a time, and mix until thick and
+well-combined. Slowly stream in the Baileys as you mix, until smooth,
+and finally add in the salt. If the mixture is too thin, add a tablespoon
+of powdered sugar at a time until the frosting reaches the desired
+thickness. Set aside.
+
+To make the chocolate curls, combine the remaining semisweet chocolate
+and vegetable shortening in a microwave safe bowl and heat in 15-second
+intervals, stirring between, until completely melted and smooth. Pour
+the melted chocolate mixture onto a metal baking sheet and smooth into a
+thin, even layer using a rubber spatula or knife. Place the baking sheet
+in the freezer to cool for 2 minutes. Then, using a sharp-edged spatula,
+scrape the chocolate from the bottom of the pan. As you press forward,
+the chocolate will curl. If the chocolate gets too soft, transfer it back
+to the freezer for a minute, making sure not to let the chocolate get
+too frozen or it will break apart.
+
+Frost the cake, place the chocolate curls on top, and serve.
+
+
 Hamburger Stroganoff
 --------------------
 
@@ -1080,7 +1163,7 @@ Yield: 13x9-inch cake
 > best in a plate-and-fork situation.
 
 
- Cake:
+Cake:
 - 1 orange
 - 1 cup raisins
 - 1/3 cup walnuts
