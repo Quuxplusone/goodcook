@@ -36,6 +36,13 @@ function createToggleArrow(e, pp) {
     return icon;
 }
 
+function slugify(string) {
+    return string.toLowerCase()
+      .replace(/[^\w\s-]/g, '') // remove non-word [a-z0-9_], non-whitespace, non-hyphen characters
+      .replace(/[\s_-]+/g, '-') // swap any length of whitespace, underscore, hyphen characters with a single -
+      .replace(/^-+|-+$/g, ''); // remove leading, trailing -
+}
+
 function createRecipeFromElements(elts) {
     var topDiv = document.createElement('div');
     topDiv.className = 'recipe';
@@ -47,6 +54,7 @@ function createRecipeFromElements(elts) {
     console.assert(elts[0].tagName == 'H2');
     var h2span = document.createElement('span');
     moveChildrenFrom(elts[0], h2span);
+    elts[0].setAttribute("id", slugify(h2span.innerHTML));
     elts[0].appendChild(createToggleArrow(detailDiv, '100'));
     elts[0].firstChild.appendChild(h2span);
     topDiv.appendChild(elts[0]);
