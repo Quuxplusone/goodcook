@@ -1196,6 +1196,27 @@ sugar and cinnamon in a small bowl, stir in the 1/4 cup walnuts,
 and sprinkle the mixture over the cake.  Cool completely.
 
 
+Oven Fries
+----------
+
+Yield: 3 servings
+
+> This is an easy one.
+> The leftovers can be refrigerated and reheated in the toaster oven.
+
+- 2 potatoes, washed but unpeeled
+- 1/4 cup oil
+- salt and seasoning to taste
+
+Cut potatoes into chunky wedges, about 12 to 16 fries per potato.
+In a large bowl, combine oil, salt and spices. (You should aim for about half a teaspoon
+total. Paprika and garlic powder are good choices. Use at least some salt.)
+Add potatoes; toss to coat. Place in a single, uncrowded layer
+on two baking sheets lined with parchment paper. (If the potatoes are crowded they
+will steam themselves instead of crisping up.) Bake 30 to 40 minutes or until tender,
+turning at 15 and 25 minutes. Salt again before serving.
+
+
 Pork Fried Rice
 ---------------
 
