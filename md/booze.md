@@ -5,7 +5,7 @@ Dry Martini
 - 1 part dry vermouth (Martini & Rossi)
 - 4 parts vodka
 
-Shake with ice; strain carefully; garnish with two pimento olives.
+Stir with ice; strain carefully; garnish with two pimento olives.
 
 
 Orange Bloom
@@ -19,48 +19,7 @@ Orange Bloom
 - 1 part Cointreau
 - water (optional)
 
-Shake with ice; serve neat in a martini glass.
-
-
-Sazerac
--------
-
-> Many modern recipes for a "Sazerac" use only one base spirit
-> (either cognac or bourbon). It is essential to use both.
-> The traditional garnish is an orange twist; in this
-> home-remedy version, we substitute a dash of orange liqueur.
-> Nobody will notice if you omit the absinthe.
-
-- 2 parts brandy (Presidente)
-- 2 parts bourbon (Bulleit)
-- 2 parts sweet vermouth (Noilly Prat)
-- 1 part Benedictine
-- two dashes Peychaud's bitters
-- dash Cointreau or Grand Marnier
-- a few drops of absinthe
-- water (optional)
-
-Rinse a lowball glass with absinthe. Add a large cube of ice;
-build the remaining ingredients in the glass.
-
-Alternatively, mix mass quantities in an empty cocktail shaker
-and pour over ice cubes.
-
-
-Sazerac Martini
----------------
-
-> This is a Sazerac modified for the carb-conscious.
-> Of course if you're carb-conscious you might omit the cherry.
-
-- 1 parts brandy (Presidente)
-- 1 parts bourbon (Bulleit)
-- 1 parts dry vermouth (Martini & Rossi)
-- 1 dash Benedictine
-- 1 dash orange blossom water
-- 2 dashes Peychaud's bitters
-
-Shake with ice; serve neat in a martini glass. Garnish with a cherry.
+Stir with ice; serve neat in a martini glass.
 
 
 The Unknown
@@ -76,4 +35,48 @@ The Unknown
 - 1 part Drambuie
 - 1 part Grand Marnier
 
-Shake with ice; serve neat in a martini glass.
+Stir vigorously with ice; serve neat in a martini glass.
+
+
+Vieux Carré
+-----------
+
+> I originally found this recipe under the name "Sazerac," but it is
+> definitely a Vieux Carré. (A Sazerac is an Old-Fashioned with an
+> absinthe rinse; a Vieux Carré is a Manhattan with Benedictine.)
+> Some modern recipes use only one base spirit (either cognac or
+> bourbon). It is essential to use both.
+> The traditional garnish is an orange twist; in this
+> home-remedy version, we substitute a dash of orange liqueur.
+> Nobody will notice if you omit the absinthe.
+
+- 2 parts brandy (Presidente)
+- 2 parts bourbon (Bulleit)
+- 2 parts sweet vermouth (Noilly Prat)
+- 1 part Benedictine
+- two dashes Peychaud's bitters
+- dash Cointreau or Grand Marnier
+- a few drops of absinthe
+- water (optional)
+
+Rinse a lowball glass with absinthe. Add a large cube of ice;
+build the remaining ingredients in the glass and stir.
+
+Alternatively, mix mass quantities in an empty cocktail shaker
+and pour over ice cubes.
+
+
+Vieux Carré Martini
+-------------------
+
+> This is a Vieux Carré modified for the carb-conscious.
+> Of course if you're carb-conscious you might omit the cherry.
+
+- 1 part brandy (Presidente)
+- 1 part bourbon (Bulleit)
+- 1 part dry vermouth (Martini & Rossi)
+- 1 dash Benedictine
+- 1 dash orange blossom water
+- 2 dashes Peychaud's bitters
+
+Shake with ice; serve neat in a martini glass. Garnish with a cherry.

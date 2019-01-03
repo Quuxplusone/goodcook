@@ -1633,6 +1633,10 @@ Yield: 4 to 6 servings
 > quite right for my dish.  A non-stick pot would be good for this
 > recipe — it seems that no matter how often I "stir occasionally", I
 > always wind up with a cooked-on mess on the bottom of my pot.
+>
+> The original recipe calls for "2 cups of water", not beef stock.
+> If you use water, the filling may be soupier when fresh. After
+> refrigeration and reheating, you probably won't notice any difference.
 
 - 1 large onion, sliced
 - 1/3 cup shortening or oil
@@ -1642,7 +1646,7 @@ Yield: 4 to 6 servings
 - 1/2 teaspoon ground ginger
 - 1+1/2 teaspoons ground allspice
 - 1+1/2 pounds boneless round steak, cut into 1-inch cubes
-- 2 cups boiling water
+- 2 cups beef stock
 - 1+1/2 cups diced peeled potatoes
 - 1 cup diced carrots
 - 1 cup frozen peas
@@ -1652,6 +1656,9 @@ In a Dutch oven, lightly brown onion in shortening or oil.
 Meanwhile, combine flour, salt, pepper, ginger and allspice in a
 plastic bag.  Place meat cubes in the bag, a few at a time, and
 shake well to coat.  Add meat to pot and brown on all sides.
+(Optionally, deglaze the bottom of the pot with 1/4 cup red wine
+at this point.)
+
 Add water, cover, and simmer for 1 hour or until meat is tender,
 stirring occasionally.  Add potatoes and carrots, cover, and cook
 for 15 minutes.  Stir in peas and continue cooking until all
