@@ -80,3 +80,38 @@ Vieux Carré Martini
 - 2 dashes Peychaud's bitters
 
 Shake with ice; serve neat in a martini glass. Garnish with a cherry.
+
+
+Sam Beauregarde
+---------------
+
+> Arthur made this one up.
+> Boulaine's 30-proof coffee liqueur is slightly sweeter
+> than Kahlua. Its purpose in this cocktail is to add sweetness.
+
+- 2 parts gin (Gordon's)
+- 1 part crème de violette (Crème Yvette)
+- 1 dash coffee liqueur (Boulaine)
+- 1 dash (10 drops) orange bitters
+- absinthe rinse
+
+Rinse a champagne flute with absinthe.
+Stir the gin, crème de violette, and coffee liqueur with ice;
+strain into the flute, add the orange bitters, and serve neat.
+Garnish with a twist of orange or lemon.
+
+
+Sherry
+------
+
+> Good brands include:
+>
+> - Barbadillo Cream Sherry
+> - Sandeman "Armada" Rich Cream Oloroso
+> - Lustau "Capataz Andrés" Deluxe Cream
+>
+> Bad brands include:
+>
+> - Savory & James Cream Jerez
+> - Williams & Humbert Dry Sack Medium (a blend of Amontillado, Oloroso, and Pedro Ximénez)
+> - Alvear's Cream Montilla (a blend of Oloroso and Pedro Ximénez)
