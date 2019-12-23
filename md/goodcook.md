@@ -275,6 +275,37 @@ speed unti fluffy, and stir in chopped cherries.  Spread about
 up to one week.
 
 
+Blini
+-----
+
+Yield: ??
+
+> This recipe was originally from "HappyKat" on AllRecipes,
+> https://allrecipes.com/recipe/260537/
+> HappyKat suggests substituting 1/3 cup buckwheat flour
+> for 1/3 cup of the all-purpose flour for a "more traditional taste."
+
+- 1 cup all-purpose flour
+- 3/4 teaspoon salt
+- 1/2 teaspoon baking powder
+- 3/4 cup plus 2 tablespoons milk
+- 1 egg
+- 2 tablespoons unsalted butter, divided
+
+Combine flour, salt, and baking powder in a bowl.
+Whisk milk, egg, and 1 tablespoon of melted butter together in a
+separate bowl; then mix into the flour mixture.
+
+Melt 1 tablespoon butter in a skillet over medium-low heat.
+Drop batter, one tablespoon at a time, into the skillet.
+Cook until bubbles form, 1.5 to 2 minutes. Flip and cook until
+brown, about 1 minute more. Remove to a plate lined with paper
+towels.
+
+Makes six servings. Serve with caviar and crème fraîche, and
+(optionally) snipped chives and hard-boiled egg yolk.
+
+
 Blueberry Kuchen
 ----------------
 
