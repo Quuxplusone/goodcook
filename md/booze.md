@@ -1,4 +1,16 @@
 
+Boulevardier
+------------
+
+- 1 part sweet vermouth (Noilly Prat)
+- 1 part bourbon (Bulleit) or brandy (Presidente)
+- 1 part Compari (Aperol)
+
+Build over ice in a lowball glass.
+Alternatively, stir vigorously with ice and strain into a martini glass.
+Garnish with a cherry.
+
+
 Dry Martini
 -----------
 
@@ -20,6 +32,25 @@ Orange Bloom
 - water (optional)
 
 Stir with ice; serve neat in a martini glass.
+
+
+Sam Beauregarde
+---------------
+
+> Arthur made this one up.
+> Boulaine's 30-proof coffee liqueur is slightly sweeter
+> than Kahlua. Its purpose in this cocktail is to add sweetness.
+
+- 2 parts gin (Gordon's)
+- 1 part crème de violette (Crème Yvette)
+- 1 dash coffee liqueur (Boulaine)
+- 1 dash (10 drops) orange bitters
+- absinthe rinse
+
+Rinse a champagne flute with absinthe.
+Stir the gin, crème de violette, and coffee liqueur with ice;
+strain into the flute, add the orange bitters, and serve neat.
+Garnish with a twist of orange or lemon.
 
 
 The Unknown
@@ -80,25 +111,6 @@ Vieux Carré Martini
 - 2 dashes Peychaud's bitters
 
 Shake with ice; serve neat in a martini glass. Garnish with a cherry.
-
-
-Sam Beauregarde
----------------
-
-> Arthur made this one up.
-> Boulaine's 30-proof coffee liqueur is slightly sweeter
-> than Kahlua. Its purpose in this cocktail is to add sweetness.
-
-- 2 parts gin (Gordon's)
-- 1 part crème de violette (Crème Yvette)
-- 1 dash coffee liqueur (Boulaine)
-- 1 dash (10 drops) orange bitters
-- absinthe rinse
-
-Rinse a champagne flute with absinthe.
-Stir the gin, crème de violette, and coffee liqueur with ice;
-strain into the flute, add the orange bitters, and serve neat.
-Garnish with a twist of orange or lemon.
 
 
 Sherry
