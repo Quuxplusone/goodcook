@@ -219,41 +219,47 @@ muffin tins and bake at 350 degrees for 25 minutes.
 Beef Wellington
 ---------------
 
-> This recipe came from masterclass.com, credited as
-> "Gordon Ramsay's Beef Wellington." The original recipe
-> says "grapeseed oil" for the beef; but any neutral oil can
-> be used; here we use canola oil.
-> Sam uses a melange of portobello, shiitake, and oyster mushrooms
-> instead of all portobello.
+> This recipe originally came from masterclass.com, credited as
+> "Gordon Ramsay's Beef Wellington." However, at least parts of
+> that recipe were clearly for mini Wellingtons, not one big Wellington.
+> We've corrected the proportions on the beef and halved the crepe
+> recipe. The original recipe says "grapeseed oil" for the beef,
+> but any neutral oil can be used; here we use canola oil.
+> Sam has used a melange of portobello, shiitake, and oyster mushrooms
+> instead of all portobello. White button mushrooms would also be fine.
 
-- 1 pound center cut beef tenderloin
+- 8-inch-long center cut beef tenderloin (filet mignon)
 - salt and pepper
 - 1 tablespoon canola oil
 - 1 tablespoon Dijon mustard
-- 4 slices prosciutto
-- 1 9.6-ounce sheet puff pastry
+- 8 slices prosciutto
+- 2 9.6-ounce sheets puff pastry
 - 2 egg yolks for egg wash
 
 Mushroom duxelles:
 - 3 tablespoons olive oil
-- 4 cups finely diced portobello mushrooms
+- 18 ounces portobello mushrooms (about 4 cups when chopped)
+- 1 shallot, diced
 - 1 teaspoon thyme
+- 3 or 4 sprigs of fresh thyme
 - salt and pepper
 
 Chive crepes:
-- 2 eggs
-- 1 cup flour, lightly packed and leveled
-- 1 cup milk
-- 1 teaspoon chives, chopped
-- 1 teaspoon fresh thyme flowers
+- 1 eggs
+- 1/2 cup flour, lightly packed and leveled
+- 1/2 cup milk
+- 1/2 teaspoon chives, chopped
+- 1/2 teaspoon thyme
 - pinch of salt
 
+Roughly chop the mushrooms, then pulse them in a food processor
+until they form a paste.
 Heat the olive oil in a medium sauté pan over medium-high heat.
-Add the diced mushrooms, thyme, salt and pepper. Stirring frequently
-to prevent sticking, cook until all the moisture has evaporated,
-about 10 minutes. Remove from heat and allow to cool.
+Add the mushroom paste, diced shallots, thyme, salt and pepper.
+Stirring frequently to prevent sticking, cook until all the moisture
+has evaporated, about 10 minutes. Remove from heat and allow to cool.
 
-In a large mixing bowl, combine two eggs, flour, milk, chives,
+In a large mixing bowl, combine egg, flour, milk, chives,
 thyme, and salt. Whisk until incorporated. Transfer to the refrigerator
 to rest for at least 30 minutes.
 
@@ -263,7 +269,7 @@ swirl the pan to evenly cover the whole bottom of the pan, forming
 a very thin pancake. Cook until set, 25 to 30 seconds. Flip and
 cook the other side for just a few seconds. Do not allow the crepe to brown.
 Transfer the crepe to a plate. Continue making crepes until the batter
-is gone; it should make five crepes. Separate them with parchment paper
+is gone; it should make three crepes. Separate them with parchment paper
 to keep them from sticking to each other.
 
 Season the beef tenderloin liberally with salt and pepper on all sides.
@@ -276,29 +282,29 @@ a sheet tray (to catch its juices) and pour any juices from the pan over it.
 While the beef is still hot, brush it with Dijon mustard all over,
 and then let it rest.
 
-Moisten your cutting board with a damp towel. Layer three pieces of plastic wrap
-on the board. Take two or three crepes (depending on the width of your beef)
-and trim into squares the length of the meat. Line them up vertically on the plastic.
-Layer the prosciutto slices on top of the crepes, then spread the duxelles over
-the prosciutto. Season with salt and pepper. Pour any juices from the sheet pan
-over the duxelles. Place the beef at the bottom of the crepe and roll it up,
-using the plastic wrap to lift as you pull the crepes over the beef. Smooth the
-plastic wrap and twist the ends to form a tight package. Refrigerate for 20 minutes.
+Layer three pieces of plastic wrap on the board. Take two or three crepes
+(depending on the diameter of your beef) and trim into squares the length
+of the meat. Line them up on the plastic. Layer the prosciutto slices on
+top of the crepes, then spread the duxelles over the prosciutto. Season
+with salt and pepper. Pour any juices from the sheet pan over the duxelles.
+Place the beef at the bottom of the crepe and roll it up, using the plastic
+wrap to lift as you pull the crepes over the beef. Smooth the plastic wrap
+and twist the ends to form a tight package. Refrigerate for 20 minutes.
 
-Moisten the cutting board again, then layer three more pieces of plastic wrap.
-Place the puff pastry in the center, and use a rolling pin to evenly roll it to
-1/8 inch thick, trimming if necessary to fit your tenderloin. Unwrap the beef from
-the refrigerator and place it on the puff pastry, one-third of the way up.
-Lightly brush the pastry with egg wash to help it stick to itself; then roll the
-pastry up and over the beef until the edges meet. Smooth it evenly across, seal the
-seam, and cut off any excess. Discard the plastic wrap. Apply egg wash to the outside
-of the Wellington. Use the back of a knife to gently score the top in a decorative
-pattern. Season with more salt, place on a parchment-lined tray, and refrigerate
-for five minutes.
+Layer three more pieces of plastic wrap on the board. Place the puff pastry
+in the center, and use a rolling pin to evenly roll it to 1/8 inch thick,
+trimming if necessary to fit your tenderloin. Unwrap the beef from the
+refrigerator and place it on the puff pastry, one-third of the way up.
+Lightly brush the pastry with egg wash to help it stick to itself; then
+roll the pastry up and over the beef until the edges meet. Smooth it evenly
+across, seal the seams, and cut off any excess. Discard the plastic wrap.
+Apply egg wash to the outside of the Wellington. Use a knife to gently
+score the top in a decorative pattern. Season with more salt, place on
+a parchment-lined sheet pan, and refrigerate for five minutes.
 
 Bake in the center of a 450°F oven (425°F if using a convection oven) for
-18 to 20 minutes, until golden brown. Remove and let rest for five minutes
-before slicing and serving.
+40 to 45 minutes, until the pastry is golden brown and the internal temperature
+reads 125°F. Remove and let rest for ten minutes before slicing and serving.
 
 
 Black Forest Cookies
