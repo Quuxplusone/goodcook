@@ -369,7 +369,7 @@ up to one week.
 Blini
 -----
 
-Yield: ??
+Yield: 25 to 30 blini
 
 > This recipe was originally from "HappyKat" on AllRecipes,
 > https://allrecipes.com/recipe/260537/
@@ -379,13 +379,16 @@ Yield: ??
 - 1 cup all-purpose flour
 - 3/4 teaspoon salt
 - 1/2 teaspoon baking powder
-- 3/4 cup plus 2 tablespoons milk
-- 1 egg
+- 1 cup milk
+- 2 eggs
 - 2 tablespoons unsalted butter, divided
 
 Combine flour, salt, and baking powder in a bowl.
 Whisk milk, egg, and 1 tablespoon of melted butter together in a
-separate bowl; then mix into the flour mixture.
+separate bowl; then mix gradually into the flour mixture until
+the consistency is right. The result should have the consistency
+of pancake batter. You will likely have some of the egg and milk
+left over.
 
 Melt 1 tablespoon butter in a skillet over medium-low heat.
 Drop batter, one tablespoon at a time, into the skillet.
@@ -394,7 +397,8 @@ brown, about 1 minute more. Remove to a plate lined with paper
 towels.
 
 Makes six servings. Serve with caviar and crème fraîche, and
-(optionally) snipped chives and hard-boiled egg yolk.
+(optionally) snipped chives or red onion, and (optionally)
+hard-boiled egg yolk.
 
 
 Blueberry Kuchen
