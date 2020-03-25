@@ -20,6 +20,26 @@ Dry Martini
 Stir with ice; strain carefully; garnish with two pimento olives.
 
 
+Guinness Black Magic
+--------------------
+
+> This St Patrick's Day recipe comes from Lucy Parissi at
+> https://www.supergoldenbakes.com/guinness-black-magic-cocktail/ (2016).
+> The original calls for muddled blackberries and simple syrup,
+> which seems like Chambord with extra steps.
+> If you replace "parts" with "ounces" below, you'll have two
+> small but refreshing servings. One can of Guinness contains
+> 14.9 ounces.
+
+- 4 parts bourbon (Bulleit)
+- 3/4 part creme de cassis (Gabriel Boudier)
+- 1 part fresh lime juice
+- 8 parts Guinness stout
+
+Shake the non-beer ingredients with ice; pour over ice in a
+lowball glass; add the Guinness and stir gently.
+
+
 Orange Bloom
 ------------
 
