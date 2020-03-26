@@ -383,6 +383,12 @@ Yield: 25 to 30 blini
 - 2 eggs
 - 2 tablespoons unsalted butter, divided
 
+Topping:
+- caviar
+- crème fraîche (Vermont Creamery)
+- snipped chives or diced red onion
+- hard-boiled egg yolk
+
 Combine flour, salt, and baking powder in a bowl.
 Whisk milk, egg, and 1 tablespoon of melted butter together in a
 separate bowl; then mix gradually into the flour mixture until
