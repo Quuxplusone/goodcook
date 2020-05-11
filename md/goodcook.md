@@ -1021,11 +1021,13 @@ In a large bowl, whisk together the flour, cornstarch, baking soda, and
 salt. Add the dry mixture to the chocolate mixture and stir until just
 combined.
 
-Pour the cake batter into the loaf pan and smooth with a rubber spatula
-or the back of a spoon. Bake for 45 minutes, or until a toothpick inserted
-into the center of the cake comes out clean. Once finished baking, let sit
-in the pan for 15 minutes to cool, then gently remove from the pan and
-transfer to a wire rack to finish cooling.
+Pour the cake batter into the loaf pan; don't fill it more than two-thirds
+of the way full, since the batter will rise during baking. Smooth the top
+with a rubber spatula or the back of a spoon. Put a cookie sheet on the
+rack below it, in case it overflows and drips. Bake for about an hour,
+or until a toothpick inserted into the center of the cake comes out clean.
+Once finished baking, let sit in the pan for 15 minutes to cool, then
+gently remove from the pan and transfer to a wire rack to finish cooling.
 
 While the cake bakes and cools, make the frosting. In a stand mixer
 or a large bowl using a hand mixer, beat the butter until fluffy.
