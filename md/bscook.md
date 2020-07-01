@@ -1366,6 +1366,67 @@ more water, a drop at a time if necessary for a better drizzling
 consistency.) Drizzle over cooled cake; cut into bars.
 
 
+Mother Kroll's Lebkuchen
+------------------------
+
+Yield: one 13 x 9-inch pan (about 40 bars)
+
+> I found this recipe in a "Woman's Day" cookie collection booklet,
+> although I have since learned that it is from "The Joy of Cooking."
+> It calls for candied citron, which is usually fairly easy to find
+> at the store in season. Many people think they don't like citron,
+> but they do like these cookies. If you're sure you can't stand
+> citron, you could substitute candied orange peel, although that's
+> harder to find. In fact, the picture beside the recipe shows
+> something red inside the cut bar, so you could probably use
+> candied cherries to replace some of the citron. The chopped
+> citron in the containers is in bigger hunks than I like,
+> so I chop it smaller.
+
+> Better have your decorations prepared before you start mixing the
+> dough; there's not a lot of time to work on it while the lebkuchen
+> bakes, since you have to make the glaze then.
+
+> If possible, let these cookies age for 2 weeks, to allow the
+> flavors time to ripen.
+
+- 3/4 cup packed light or dark brown sugar
+- 1 cup honey
+- 1 large egg
+- 1 teaspoon grated lemon peel
+- 1 tablespoon lemon juice
+- 2+1/2 cups flour
+- 1/2 teaspoon baking soda
+- 1 teaspoon ground cinnamon
+- 1/2 teaspoon ground allspice
+- 1/2 teaspoon ground nutmeg
+- 1/2 teaspoon ground cloves
+- 1/3 cup chopped candied citron
+- 1/3 cup chopped slivered blanched almonds
+
+Glaze:
+- 1 cup confectioners' sugar
+- 2 tablespoons lemon juice
+- 1/4 teaspoon vanilla extract
+
+Decoration:
+- halved candied cherries
+
+In a large bowl, mix the sugar, honey, egg, lemon peel and lemon juice.
+In a medium bowl, whisk the flour, baking soda and spices to mix, then
+add it to the honey mixture. Add the citron and almonds; mix until
+well blended. Press evenly into a greased 13 x 9-inch pan.
+Bake at 400°F for 14 to 18 minutes, until a toothpick comes out
+"almost clean."
+
+Meanwhile, stir glaze ingredients in a small bowl, adding a few drops
+of water if needed, until spreadable. While the lebkuchen is still warm
+(but not straight out of the oven; give it five minutes or so) pour on
+the glaze and spread it evenly over the top. Immediately score (or cut)
+into the size bars you want, and top each bar with half a candied cherry.
+Let the bars cool before removing from the pan.
+
+
 "Nuts for Chocolate" Bars
 -------------------------
 
