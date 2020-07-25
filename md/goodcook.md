@@ -1000,7 +1000,7 @@ Cake:
 Frosting:
 - 1 stick (8 tablespoons) unsalted butter, softened at room temperature
 - 1 cup powdered sugar, plus more, if needed
-- 1/8 cup Baileys Irish Cream liqueur
+- 2 tablespoons Baileys Irish Cream liqueur
 - 1/4 teaspoon salt
 
 Chocolate curls:
