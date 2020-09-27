@@ -20,6 +20,25 @@ Dry Martini
 Stir with ice; strain carefully; garnish with two pimento olives.
 
 
+Godfather
+---------
+
+> According to the IBA, a real "Godfather" contains Scotch whiskey,
+> not bourbon; but Wikipedia blesses bourbon as a common variant.
+> Sometimes I'll use Presidente brandy instead of bourbon, but that
+> really makes it too sweet.
+>
+> The secret ingredient is Walcher amaretto, 28% ABV,
+> with notes of vanilla and cherry.
+
+- 2 parts bourbon (Bulleit)
+- 1 part amaretto (Walcher)
+- dash anisette (absinthe, ouzo, or sambuca, for example)
+
+Build over a large cube of ice in a lowball glass. Stir vigorously
+to melt the ice; it's better with a little icemelt in it.
+
+
 Guinness Black Magic
 --------------------
 

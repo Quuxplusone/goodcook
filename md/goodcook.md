@@ -1283,6 +1283,70 @@ just lightly browned around the edge.  Cool on baking sheet for
 sugar, if desired.
 
 
+Meatloaf
+--------
+
+> Mom says that she doesn't really have a meatloaf "recipe";
+> it's forgiving of anything you want to put into it. She suggests
+> a slice or two of liverwurst, or grated carrot, as possible
+> additions.
+>
+> Sam hybridized Mom's recipe with an online recipe originally
+> by Amanda Finks on "The Wholesome Dish" (2016):
+> https://www.thewholesomedish.com/the-best-classic-meatloaf/
+>
+> For the binding agent, Mom suggests panko or quick oats as
+> alternatives to fresh bread crumbs.
+>
+> This recipe calls for lean ground beef.
+> The grocery store sells what they call "meatloaf mix" (ground
+> pork and veal), but if you use 100% meatloaf mix you get
+> something very different from this recipe. You might do two-thirds
+> beef to one-third meatloaf mix, or just skip the mix.
+>
+> You can cook meatloaf in a loaf pan; but this complicates the logistics
+> of slicing it, and also gives it a crispier "crust," which is not part
+> of my personal meatloaf archetype. This recipe uses a Pyrex baking dish,
+> just like Mom used to do.
+
+- 1 pound 90% lean ground beef
+- 1 cup fresh breadcrumbs
+- 1/4 cup chopped onion
+- 1/4 cup chopped red bell pepper
+- 2 teaspoons dried parsley
+- 3/4 teaspoon salt
+- 1/4 teaspoon pepper
+- 1/4 teaspoon curry powder
+- 2 tablespoons ketchup
+- 1 tablespoon Worcestershire sauce
+- 1 teaspoon prepared mustard
+- 1 egg, beaten
+
+Mix the meat and breadcrumbs. (Mom would make fresh breadcrumbs by
+food-processing some bread heels, but panko also works.) Add the
+onion and bell pepper. Sprinkle well with salt and pepper (or SeasonAll),
+a bunch of dried parsley, and a tiny sprinkle of curry powder. Add a
+little bit of prepared mustard, some shakes of Worcestershire sauce,
+a fair amount of catsup (or tomato paste), and the egg.
+You want the "dough" to be moldable and hold its shape. If it needs
+more moisture, add a small amount of water (or V-8 juice), or even a
+second beaten egg.
+
+Mix all the ingredients well. Try not to over-work the meat; but when
+in doubt, it's better to over-mix than to under-mix.
+
+Mold the mixture into an oblong loaf and place it in the center of a
+Pyrex baking dish or casserole dish. If the loaf seems likely to slump,
+shove it up against the end of the dish to help support one side.
+
+Bake at 350°F for about an hour, until the center reaches 160°F.
+
+Optionally, glaze the top of the loaf with ketchup about 20 minutes
+before you take it out of the oven.
+
+Let stand for 10 minutes before you slice it, to avoid crumbling.
+
+
 Orange Kiss-Me Cake
 -------------------
 
