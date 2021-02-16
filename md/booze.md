@@ -59,6 +59,21 @@ Shake the non-beer ingredients with ice; pour over ice in a
 lowball glass; add the Guinness and stir gently.
 
 
+Margarita
+---------
+
+- 2 parts tequila (Hornitos Añejo)
+- 1 part fresh lime juice
+- 1 part Cointreau
+- 1 part triple sec
+
+Shake with ice and serve up; or build over ice in a lowball glass.
+
+Replace 1 part triple sec with 1 part Cointreau for a simpler recipe.
+Replace 1 part triple sec with 1/2 part Licor 43 for a more complex
+flavor profile.
+
+
 Orange Bloom
 ------------
 
