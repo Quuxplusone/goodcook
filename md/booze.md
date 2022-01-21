@@ -175,6 +175,7 @@ Sherry
 > - Barbadillo Cream Sherry
 > - Sandeman "Armada" Rich Cream Oloroso
 > - Lustau "Capataz Andrés" Deluxe Cream
+> - Valdespino "Isabela" Cream Sherry
 >
 > Bad brands include:
 >
