@@ -1720,6 +1720,70 @@ later on.)  Remove to a wire rack to cool completely.  Dust
 with confectioners' sugar when cool.
 
 
+Spaghetti Sauce
+---------------
+
+Yield: 10 servings?
+
+> This is a family "non-recipe," like meatloaf. Traditionally
+> the making of the spaghetti sauce was Dad's (Tony's) department.
+> Dad says: "When I was making spaghetti sauce for myself, I would
+> definitely have started with some garlic, minced and sautéed.
+> But Virginia doesn’t much like garlic. I'd also have added one or
+> two spoonfuls of sugar, since I like sweet stuff. I think I used
+> three onions, three green peppers, and enough canned tomatoes to
+> fill the pot, although I don't remember how much that was.
+> I'd only cover the surface once with oregano, but I would also
+> add parsley and basil. Sausage was a late addition to my recipe;
+> my mother never put sausage on spaghetti."
+>
+> Mom says: "I generally cut the sausage into one-inch chunks,
+> then brown it, so it can be dumped right in the pot once it's cooked.
+> If you want more veggies, chopped yellow squash works well without
+> calling attention to itself."
+>
+> Arthur says: There's no such thing as too much oregano; but don't
+> add too much basil. All-oregano is spaghetti sauce. A two-to-one
+> oregano-to-basil ratio is pizza sauce, and you don't want that on
+> your spaghetti.
+>
+> Sam says: 3 cloves garlic, and you get more nutrients if you buy
+> canned whole tomatoes and crush them with a spoon yourself.
+> Also, for a one-pot version, you should start by browning the beef,
+> then reserve it and sauté the onions and peppers in the beef fat
+> instead of olive oil.
+
+- 1 white onion
+- 1 green bell pepper
+- 1 clove garlic
+- 2 tbsp olive oil
+- 1 lb ground beef and/or 1 lb sweet Italian sausage links cut in 1-inch chunks
+- One can (28 oz) crushed tomatoes (without added herbs or anything: just tomatoes)
+- One can (6 oz) tomato paste
+- 1/2 cup chicken stock
+- 8 oz canned or fresh sliced mushrooms
+- 2 oz raw carrot, diced or thinly coined
+- 3 tbsp oregano, or to taste
+
+Dice the onion, and slice the garlic, as finely as possible. (The finer you
+dice the onion, the thicker the resulting sauce.) Chop the bell pepper. Sauté
+the onion, garlic, and pepper in 2 tbsp of olive oil at the bottom of a
+large stew pot, stirring frequently, until the onions are transparent but
+not browned. (Too much caramelization is a bad thing.) Meanwhile, brown the
+ground beef or sausage in a separate pan. You want to see no pink, but it'll
+be stewed for an hour so it doesn't need to get fully cooked right now.
+If you're using fresh mushrooms, consider pre-sautéing them as well.
+
+When the onions are transparent, stir in the crushed tomatoes and tomato paste
+and reduce the heat to a simmer. Drain the ground beef and add it to the pot.
+Add the mushrooms and raw carrots. Cover the whole surface of the sauce thickly
+with oregano and stir it in; repeat this procedure two or three times.
+Cover the pot and simmer, stirring occasionally, for 1–2 hours. You can't
+really simmer it too long; just remember to stir, or else the bottom may
+crust or caramelize. You may want to add 1/2 cup chicken stock, early on,
+both to thin out the sauce and for flavor.
+
+
 Special Shrimp Bake
 -------------------
 
