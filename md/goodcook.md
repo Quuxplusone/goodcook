@@ -550,6 +550,28 @@ Top with drizzles of melted chocolate, or one of my favorites is to pipe
 Nutella in decorative patterns.
 
 
+Chocolate Mug Cake
+------------------
+
+> Arthur learned this recipe circa 2010; it may have suffered some
+> memetic drift over time. It's a one-pot recipe, requiring only a
+> mug, a one-tablespoon measure, and a fork. It's easy to vary:
+> add vanilla extract, replace some milk with orange or almond liqueur,
+> replace the cocoa with lemon juice and poppyseeds, and so on.
+
+- 4 scant tablespoons sugar
+- 4 tablespoons flour
+- 1.5 tablespoons cocoa powder
+- 1 egg
+- 3 tablespoons milk
+- 2 tablespoons vegetable oil
+
+In a tall 12-ounce mug, combine the sugar, flour, and cocoa powder;
+stir with a fork to homogenize. Add the egg and milk; stir again
+thoroughly. Add the oil; stir again until completely smooth.
+Microwave for 3 minutes.
+
+
 Coconut Cashew Basmati Rice Salad
 ---------------------------------
 
@@ -2002,7 +2024,7 @@ Yield: 4 servings
 > yellow squash; it doesn't affect the flavor but makes the
 > stuffing lighter in texture (and calories).
 
-- 1 box "Stove Top Stuffing"
+- 1 box (6 oz) "Stove Top Stuffing"
 - butter and water, as directed on box
 - 1/8 cup minced onion
 - 1 tablespoon sliced almonds (optional)
