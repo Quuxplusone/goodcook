@@ -4,7 +4,7 @@ Boulevardier
 
 - 1 part sweet vermouth (Noilly Prat)
 - 1 part bourbon (Bulleit) or brandy (Presidente)
-- 1 part Compari (Aperol)
+- 1 part Campari
 
 Build over ice in a lowball glass.
 Alternatively, stir vigorously with ice and strain into a martini glass.
@@ -32,7 +32,7 @@ Godfather
 > with notes of vanilla and cherry.
 
 - 2 parts bourbon (Bulleit)
-- 1 part amaretto (Walcher)
+- 1 part amaretto (Walcher) or crème de noyaux
 - dash anisette (absinthe, ouzo, or sambuca, for example)
 
 Build over a large cube of ice in a lowball glass. Stir vigorously
@@ -177,8 +177,9 @@ Sherry
 > - Lustau "Capataz Andrés" Deluxe Cream
 > - Valdespino "Isabela" Cream Sherry
 >
-> Bad brands include:
+> Brands I dislike include:
 >
 > - Savory & James Cream Jerez
 > - Williams & Humbert Dry Sack Medium (a blend of Amontillado, Oloroso, and Pedro Ximénez)
 > - Alvear's Cream Montilla (a blend of Oloroso and Pedro Ximénez)
+> - Barbadillo Pedro Ximénez

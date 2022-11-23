@@ -1632,32 +1632,28 @@ Yield: 6 to 8 servings
 
 > This recipe came from either "Country" or "Taste of Home" magazine.
 > It was contributed by Rosemary Pryor, of Pasadena, Maryland.  It's
-> one of my standard Thanksgiving recipes.  I usually reduce the
-> caraway seed to about a half-teaspoon, since my family is not
-> particularly fond of it; and decrease the brown sugar to about 1/3
-> cup, because otherwise my husband thinks it is too sweet.  Also, I
-> generally cut back the onion a little, since we already have quite a
-> bit of onion in our usual Thanksgiving stuffing.
+> one of my standard Thanksgiving recipes. I generally cut back the
+> onion a little, since we already have quite a bit of onion in our
+> usual Thanksgiving stuffing.
+>
+> The original recipe called for 1/2 cup brown sugar, 2 tsp caraway seed,
+> baking at 350 degrees for one hour (instead of simmering on the stovetop),
+> and a garnish of snipped parsley. We don't do any of that.
 
-- 1 pound mild Italian sausage links, cut into 1-inch slices
+- 1 pound mild Italian sausage links
 - 1 large onion, chopped
-- 2 apples, peeled and quartered
+- 2 apples, peeled and cut into sixths or eighths
 - 1 can (27 ounces) sauerkraut, undrained
 - 1 cup water
-- 1/2 cup packed brown sugar
-- 2 teaspoons caraway seed
-- Snipped parsley (for garnish), optional
+- 1/3 cup packed brown sugar
+- 1/2 teaspoon caraway seed
 
-In a skillet, cook sausage and onion until sausage is brown and
-onion is tender; drain.  Stir in apples, sauerkraut, water, brown
-sugar and caraway seed.  Transfer to a 2.5-quart baking dish.
-Cover and bake at 350 degrees for one hour.  Garnish with parsley,
-if desired.
-
-Note:  I usually cook this on top of the stove for a couple of
-hours, rather than in the oven.  So I start out cooking the sausage
-and onion in a 3-quart saucepan, drain it, then add the rest and
-simmer until we're ready to eat.
+In the bottom of a 3-quart saucepan, brown the sausage links;
+then remove the sausage and cut it into 1-inch chunks.
+Cook the onion in the same saucepan until it is tender but not
+caramelized. To the onion, add the sausage, apples, sauerkraut,
+water, brown sugar, and caraway seed, and stir together.
+Simmer, uncovered, for up to two hours.
 
 
 Shrimp Toast
