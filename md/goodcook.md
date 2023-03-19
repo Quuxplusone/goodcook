@@ -615,8 +615,8 @@ up any clumps.  Season with 1 teaspoon salt and pepper to taste.
 Garnish with cashews; serve hot or at room temperature.
 
 
-Corned Beef and Cabbage Dinner
-------------------------------
+Corned Beef and Cabbage
+-----------------------
 
 Yield: 6 servings
 
@@ -628,6 +628,9 @@ Yield: 6 servings
 > although the beets are cooked separately, not in the pot with
 > the rest. My husband likes to have a horseradish sauce with
 > the cabbage.
+>
+> The corned beef must have a layer of fat on one side.
+> Lean corned beef will not work.
 
 - 3 to 4 pound corned beef brisket
 - 1/2 medium onion, chopped
@@ -636,7 +639,7 @@ Yield: 6 servings
 - 6 medium potatoes, peeled
 - 6 small carrots
 - 6 cabbage wedges
-- 1 teaspoon prepared mustard
+- 1 teaspoon prepared mustard (i.e., yellow or Dijon)
 - 3 tablespoons brown sugar
 - dash of ground cloves
 
@@ -649,8 +652,8 @@ cook 5 minutes. Add cabbage and cook 25 minutes longer, or until
 the vegetables are tender.
 
 Meanwhile, place meat, fat side up, in a shallow baking pan.
-Score through the fat with a knife. Spread with mustard;
-sprinkle with mixture of brown sugar and cloves.
+Score through the fat with a knife. Spread with 1 tsp mustard;
+sprinkle with the brown sugar and cloves mixed together.
 Bake at 350°F for 15 minutes.
 
 Serve meat with vegetables; and pass cooking liquid to spoon

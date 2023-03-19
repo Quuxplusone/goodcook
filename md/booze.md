@@ -183,3 +183,4 @@ Sherry
 > - Williams & Humbert Dry Sack Medium (a blend of Amontillado, Oloroso, and Pedro Ximénez)
 > - Alvear's Cream Montilla (a blend of Oloroso and Pedro Ximénez)
 > - Barbadillo Pedro Ximénez
+> - Osborne Jerez
