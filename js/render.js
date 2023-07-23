@@ -83,6 +83,10 @@ function createRecipeFromElements(elts) {
     while (elts[0].tagName == 'BLOCKQUOTE') {
         moveChildrenFrom(elts[0], commentaryDiv);
         elts.shift();
+        if (elts.length == 0) {
+            // "Sherry" has only commentary, no ingredients or steps.
+            return topDiv;
+        }
     }
 
     // All of the elements up to the last <ul> are "recipe-ingredients".
