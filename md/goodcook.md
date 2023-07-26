@@ -615,6 +615,30 @@ up any clumps.  Season with 1 teaspoon salt and pepper to taste.
 Garnish with cashews; serve hot or at room temperature.
 
 
+Cole Slaw
+---------
+
+Yield: 10 servings
+
+> This recipe comes from Sam's mother Susan Keat.
+> It's best served cold the day after it's made;
+> it shouldn't be kept longer than two days.
+
+- 3 cups cabbage, grated
+- 1.5 cups carrots, grated
+- 1/4 onion, grated
+- 2 tablespoons mayonnaise
+- 2 tablespoons milk
+- 1 tablespoon apple cider vinegar
+- 1 teaspoon sugar
+- salt and pepper to taste
+
+Grate the cabbage, carrots, and onions with a box grater.
+Mix together the mayonnaise, milk, vinegar, and sugar,
+then add to the grated ingredients. Stir well, add salt
+and pepper, and refrigerate immediately. Serve cold.
+
+
 Corned Beef and Cabbage
 -----------------------
 

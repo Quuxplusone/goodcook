@@ -184,3 +184,4 @@ Sherry
 > - Alvear's Cream Montilla (a blend of Oloroso and Pedro Ximénez)
 > - Barbadillo Pedro Ximénez
 > - Osborne Jerez
+> - Lustau Amontillado "Los Arcos"
