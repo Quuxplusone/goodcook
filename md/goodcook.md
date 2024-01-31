@@ -1464,6 +1464,32 @@ will steam themselves instead of crisping up.) Bake 30 to 40 minutes or until te
 turning at 15 and 25 minutes. Salt again before serving.
 
 
+Ozark Apple Pudding
+-------------------
+
+Yield: 6 servings
+
+> By Susan O'Keefe in the "River Journal" of Tarrytown, New York, October 2023.
+> "Sprinkle with confectioners' sugar just before serving," she writes.
+> Whipped cream is a must.
+> By "finely chopped," the recipe means dice with quarter-inch sides.
+
+- 1/2 cup all-purpose flour
+- 2 teaspoons baking powder
+- 1/4 teaspoon salt
+- 2 eggs
+- 1 cup brown sugar
+- 1 teaspoon vanilla extract
+- 2 cups finely chopped apples
+- 1/2 cup chopped pecans (optional)
+
+Preheat the oven to 350°F and grease an 8x8 or 9-inch round baking pan.
+Beat the eggs, sugar, and vanilla together. Stir in the flour, baking powder,
+and salt. Stir in the chopped apples and nuts. Spread the batter in the
+greased baking pan and bake for 30 to 35 minutes. Serve warm with
+fresh whipped cream.
+
+
 Pork Fried Rice
 ---------------
 
