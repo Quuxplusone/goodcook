@@ -176,6 +176,7 @@ Sherry
 > - Sandeman "Armada" Rich Cream Oloroso
 > - Lustau "Capataz Andrés" Deluxe Cream
 > - Valdespino "Isabela" Cream Sherry
+> - Harvey's "Bristol Cream"
 >
 > Brands I dislike include:
 >

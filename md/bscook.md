@@ -2199,7 +2199,7 @@ Yield: 13-in x 9-in x 2-in pan
 > omitting the baking powder.  The recipe originally just said
 > "chocolate chips", but I think that the mini-chips work better —
 > the big ones make it harder to cut neatly.  For that matter, since
-> these is a fairly tender (crumbly) cake, it's a lot less messy to
+> this is a fairly tender (crumbly) cake, it's a lot less messy to
 > cut if you stick it in the freezer for a little while first.
 
 - 1/2 cup butter, softened
