@@ -446,6 +446,46 @@ remove the rim of the pan.  Sprinkle with confectioners' sugar
 and/or garnish with whipped cream before serving.
 
 
+Brisket (Rabbi Dreyfus's Beef Brisket)
+--------------------------------------
+
+Yield: about 8 servings
+
+> This recipe came from the 12/22/87 issue of "Woman's Day" magazine.
+> It was part of a feature about how female ministers and rabbis
+> manage their holiday meals, given their religious responsibilities.
+> "This is about as easy as anything can be," says Rabbi Dreyfus.  The
+> recipe was handed down by her mother, Eve.  You can cook, slice, and
+> refrigerate the beef the day before, then just reheat when you're
+> ready.  The original recipe included a microwave variant; but the
+> best part of this meal is the slowly browned onions, and they don't
+> brown in the microwave, so I haven't bothered with copying those
+> directions.
+
+- 3 large onions, halved and sliced thin (3 cups)
+- 4-pound beef brisket, thin cut, top fat trimmed to 1/4 inch
+- 1 large clove garlic, cut in half
+- 2 teaspoons paprika (I just use "Season-All" instead of these)
+- 1/4 teaspoon pepper (I just use "Season-All" instead of these)
+- 1+1/2 cups beef broth
+
+Heat oven to 350°F.  Make a bed of onions in the roasting
+pan.  Rub brisket with garlic and add garlic to onions.  Sprinkle
+brisket with paprika and pepper.  (I usually just sprinkle with
+"Season-All", instead.) Put brisket fat side up on onions.  Add
+broth to pan; cover with foil.  Bake 150 minutes or until "almost
+tender" when pierced with a fork.  Remove foil, bake 30 minutes or
+until meat is tender and top is golden brown.  To serve, remove meat
+to serving platter or cutting board.  Cover loosely with foil; let
+stand 10 minutes.  (At this point, I usually pour the juices off of
+the onions, and return the onions to the oven, to finish browning.)
+With sharp knife, cut in thin slices across the grain.  Skim fat
+from pan juices.  Serve onions and juices with meat.  To save:
+return sliced meat to pan with juices and onions; cover and
+refrigerate.  When ready to serve, reheat at 350°F for 30 to 35
+minutes, until hot.
+
+
 Buttermilk Pralines
 -------------------
 
@@ -515,6 +555,12 @@ Cheesecake Brownies
 Yield: one 9x13 pan
 
 > This recipe came from Matt Reynolds' girlfriend Jen Fenske.
+> Here I've doubled the recipe for the cheesecake topping, because
+> the original makes a very thin layer (maybe a quarter of the thickness
+> of the brownie layer).
+>
+> Jen suggests adding nuts to the brownies, and/or a final drizzle
+> with melted chocolate or Nutella; but we don't.
 
 Brownies:
 - 4 ounces unsweetened baker's chocolate
@@ -526,28 +572,24 @@ Brownies:
 - 2 cups sugar
 
 Cheesecake topping:
-- 8 ounces cream cheese
-- 2 tablespoons butter
-- 1 tablespoon cornstarch
-- 1 egg
-- 2 teaspoons vanilla
-- 1 can (14 ounces) sweetened condensed milk
+- 16 ounces cream cheese
+- 4 tablespoons butter
+- 2 tablespoons cornstarch
+- 2 eggs
+- 4 teaspoons vanilla
+- 2 cans sweetened condensed milk (28 ounces)
 
 Preheat the oven to 350°F and grease a 9x13 pan.
 Combine flour, sugar, and salt in a mixer. Add eggs and vanilla.
 In a saucepan, melt the butter and chocolate together. Once the mixture is
 thoroughly melted, add it to the mixer and blend.
-Add nuts, chocolate chips, coconut, or whatever else your heart desires.
 Pour into the greased pan and bake for 20 to 25 minutes.
 
 Meanwhile, prepare the cheesecake topping: Combine everything except the
 condensed milk and mix until creamy. Slowly mix in the condensed milk.
-I usually let the mix whip for just a few minutes after everything is blended.
+Let the mix whip for just a few minutes after everything is blended.
 Once the brownies have baked for 20 to 25 minutes, pour the topping onto the
 brownies and bake for an additional 30 to 35 minutes at 350°F.
-
-Top with drizzles of melted chocolate, or one of my favorites is to pipe
-Nutella in decorative patterns.
 
 
 Chocolate Mug Cake
@@ -1100,81 +1142,6 @@ too frozen or it will break apart.
 Frost the cake, place the chocolate curls on top, and serve.
 
 
-Hamburger Stroganoff
---------------------
-
-Yield: about 4 servings
-
-> This is something my husband taught me to make, although he used
-> canned mushrooms, and I think it's better with fresh ones. You
-> can save time by buying pre-sliced mushrooms.  It's bad to boil
-> sour cream, so it's added right before serving and heated only
-> until it's heated through.
-
-- 1 large onion (or 2 smaller onions)
-- 1/2 head garlic
-- 1 pound ground beef
-- 1 can condensed cream-of-chicken soup
-- 8–12 ounces fresh mushrooms
-- 1+1/2 cups sour cream
-
-Saute the onion and garlic in a saucepan, meanwhile browning
-the ground beef in a separate pan. (Or, you can brown the beef,
-remove it, saute the onion/garlic, then recombine. Or the lazy
-cooks can just add the onion/garlic to the pan once the beef is
-partially browned.)  Combine the beef with the onions and
-garlic, and add the undiluted soup.  Cover and simmer for about
-20 minutes.  Meanwhile, sauté the mushrooms. Add the sautéed
-mushrooms and simmer a while longer.
-
-Shortly before serving, add the sour cream and stir well
-until the sauce is heated through.
-
-Meanwhile, cook flat noodles according to the package directions.
-Serve the stroganoff over noodles.
-
-
-Herbed Beef Stew
-----------------
-
-Yield: 8 to 10 servings
-
-> This recipe has been adapted from a recipe submitted to either
-> "Country" or "Taste of Home" magazine by Marlene Severson, of
-> Everson, Washington.
-
-- 1 large onion, chopped
-- 2 pounds beef stew meat, cut into 1-inch cubes
-- 2 tablespoons cooking oil
-- 2 or 3 cloves garlic, minced
-- 1 can (14.5 ounces) diced tomatoes, undrained
-- 3 cups water
-- 1 teaspoon salt
-- 1/2 teaspoon pepper
-- 1/2 teaspoon dried thyme
-- 1/2 teaspoon dried oregano
-- 1/2 teaspoon dried basil
-- 1/2 teaspoon dried marjoram
-- 1 bay leaf
-- 1 or 2 beef bouillon cubes
-- 2 cups cubed peeled potatoes
-- 2 cups sliced carrots
-- 1/2 green pepper, chopped (optional)
-- 1/4 pound mushrooms, sliced
-- 8 to 16 ounces frozen cut green beans
-- 8 to 16 ounces frozen peas
-- 8 to 16 ounces frozen corn
-- 1/2 cup flour (optional)
-
-
-Heat oil in large pot.  Saute onions and meat until meat is brown.
-Add garlic, tomatoes, water, and seasonings.  Cover and simmer for
-90 minutes, or until meat is tender.  Stir in potatoes, carrots,
-and green pepper; simmer 30 minutes.  Add remaining ingredients,
-cover, and simmer 25 minutes or until done.  Shake the flour with
-water to make a thin paste and stir into stew to thicken.
-
-
 Iced Pumpkin Cookies
 --------------------
 
@@ -1587,46 +1554,6 @@ foil-lined baking sheet, and bake at 250 degrees for 2 hours.
 To ensure they brown evenly, stir them around every 30 minutes or so.
 
 
-Rabbi Dreyfus's Beef Brisket
-----------------------------
-
-Yield: about 8 servings
-
-> This recipe came from the 12/22/87 issue of "Woman's Day" magazine.
-> It was part of a feature about how female ministers and rabbis
-> manage their holiday meals, given their religious responsibilities.
-> "This is about as easy as anything can be," says Rabbi Dreyfus.  The
-> recipe was handed down by her mother, Eve.  You can cook, slice, and
-> refrigerate the beef the day before, then just reheat when you're
-> ready.  The original recipe included a microwave variant; but the
-> best part of this meal is the slowly browned onions, and they don't
-> brown in the microwave, so I haven't bothered with copying those
-> directions.
-
-- 3 large onions, halved and sliced thin (3 cups)
-- 4-pound beef brisket, thin cut, top fat trimmed to 1/4 inch
-- 1 large clove garlic, cut in half
-- 2 teaspoons paprika (I just use "Season-All" instead of these)
-- 1/4 teaspoon pepper (I just use "Season-All" instead of these)
-- 1+1/2 cups beef broth
-
-Heat oven to 350°F.  Make a bed of onions in the roasting
-pan.  Rub brisket with garlic and add garlic to onions.  Sprinkle
-brisket with paprika and pepper.  (I usually just sprinkle with
-"Season-All", instead.) Put brisket fat side up on onions.  Add
-broth to pan; cover with foil.  Bake 150 minutes or until "almost
-tender" when pierced with a fork.  Remove foil, bake 30 minutes or
-until meat is tender and top is golden brown.  To serve, remove meat
-to serving platter or cutting board.  Cover loosely with foil; let
-stand 10 minutes.  (At this point, I usually pour the juices off of
-the onions, and return the onions to the oven, to finish browning.)
-With sharp knife, cut in thin slices across the grain.  Skim fat
-from pan juices.  Serve onions and juices with meat.  To save:
-return sliced meat to pan with juices and onions; cover and
-refrigerate.  When ready to serve, reheat at 350°F for 30 to 35
-minutes, until hot.
-
-
 Roasted Carrot Dip
 ------------------
 
@@ -2002,6 +1929,47 @@ steam vents in crust.  Bake at 375 degrees for 25–30 minutes, or
 until pastry is browned.
 
 
+Stew (Herbed Beef Stew)
+-----------------------
+
+Yield: 8 to 10 servings
+
+> This recipe has been adapted from a recipe submitted to either
+> "Country" or "Taste of Home" magazine by Marlene Severson, of
+> Everson, Washington.
+
+- 1 large onion, chopped
+- 2 pounds beef stew meat, cut into 1-inch cubes
+- 2 tablespoons cooking oil
+- 2 or 3 cloves garlic, minced
+- 1 can (14.5 ounces) diced tomatoes, undrained
+- 3 cups water
+- 1 teaspoon salt
+- 1/2 teaspoon pepper
+- 1/2 teaspoon dried thyme
+- 1/2 teaspoon dried oregano
+- 1/2 teaspoon dried basil
+- 1/2 teaspoon dried marjoram
+- 1 bay leaf
+- 1 or 2 beef bouillon cubes
+- 2 cups cubed peeled potatoes
+- 2 cups sliced carrots
+- 1/2 green pepper, chopped (optional)
+- 1/4 pound mushrooms, sliced
+- 8 to 16 ounces frozen cut green beans
+- 8 to 16 ounces frozen peas
+- 8 to 16 ounces frozen corn
+- 1/2 cup flour (optional)
+
+
+Heat oil in large pot.  Saute onions and meat until meat is brown.
+Add garlic, tomatoes, water, and seasonings.  Cover and simmer for
+90 minutes, or until meat is tender.  Stir in potatoes, carrots,
+and green pepper; simmer 30 minutes.  Add remaining ingredients,
+cover, and simmer 25 minutes or until done.  Shake the flour with
+water to make a thin paste and stir into stew to thicken.
+
+
 Strawberry Soup
 ---------------
 
@@ -2058,6 +2026,40 @@ crumbs.  Stir in the chopped walnuts.  Sprinkle the streusel over
 the partially-baked pie, then bake 10 to 15 minutes longer, until
 a knife inserted in the center comes out clean and the topping is
 bubbly and lightly browned.  Let pie cool for at least 2 hours.
+
+
+Stroganoff
+----------
+
+Yield: about 4 servings
+
+> Virginia writes: This is something my husband taught me to make,
+> although he used canned mushrooms, and I think it's better with
+> fresh ones. You can save time by buying pre-sliced mushrooms.
+> It's bad to boil sour cream, so it's added right before serving
+> and heated only until it's heated through.
+
+- 1 large onion (or 2 smaller onions)
+- 1/2 head garlic
+- 1 pound ground beef
+- 1 can condensed cream-of-chicken soup
+- 8–12 ounces fresh mushrooms
+- 1+1/2 cups sour cream
+
+Saute the onion and garlic in a saucepan, meanwhile browning
+the ground beef in a separate pan. (Or, you can brown the beef,
+remove it, saute the onion/garlic, then recombine. Or the lazy
+cooks can just add the onion/garlic to the pan once the beef is
+partially browned.)  Combine the beef with the onions and
+garlic, and add the undiluted soup.  Cover and simmer for about
+20 minutes.  Meanwhile, sauté the mushrooms. Add the sautéed
+mushrooms and simmer a while longer.
+
+Shortly before serving, add the sour cream and stir well
+until the sauce is heated through.
+
+Meanwhile, cook flat noodles according to the package directions.
+Serve the stroganoff over noodles.
 
 
 Stuffing
