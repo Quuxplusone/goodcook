@@ -303,8 +303,9 @@ score the top in a decorative pattern. Season with more salt, place on
 a parchment-lined sheet pan, and refrigerate for five minutes.
 
 Bake in the center of a 450°F oven (425°F if using a convection oven) for
-40 to 45 minutes, until the pastry is golden brown and the internal temperature
-reads 125°F. Remove and let rest for ten minutes before slicing and serving.
+40 to 45 minutes (check it at 30 minutes), until the pastry is golden brown
+and the internal temperature reads 125°F. Remove and let rest for ten minutes
+before slicing and serving.
 
 
 Black Forest Cookies

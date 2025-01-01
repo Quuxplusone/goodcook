@@ -59,6 +59,21 @@ Shake the non-beer ingredients with ice; pour over ice in a
 lowball glass; add the Guinness and stir gently.
 
 
+Malörtrimony
+------------
+
+> Originally from Reddit user "thejustice32";
+> originally containing 1.33 parts lime juice, and
+> honey syrup instead of the easier-to-come-by triple sec.
+
+- 2 parts pineapple rum
+- 1 part lime juice
+- 1 part Malört
+- 1 part triple sec
+
+Shake and serve over ice.
+
+
 Margarita
 ---------
 
