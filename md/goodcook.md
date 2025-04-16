@@ -245,7 +245,7 @@ Mushroom duxelles:
 - salt and pepper
 
 Chive crepes:
-- 1 eggs
+- 1 egg
 - 1/2 cup flour, lightly packed and leveled
 - 1/2 cup milk
 - 1/2 teaspoon chives, chopped
@@ -1245,6 +1245,47 @@ you prefer a thinner soup, add additional water or broth.  Sprinkle
 with the Parmesan cheese before serving, if desired.
 
 
+Jewish Apple Cake
+-----------------
+
+Yield: One 10-inch bundt pan, or about 14 servings
+
+> This is a traditional dessert in Sam's family, because it's
+> gluten-free. Susan Keat forwarded this version of the recipe
+> from "JBS BOX" on AllRecipes (2024),
+> https://allrecipes.com/recipe/7969/jewish-apple-cake-i
+
+Cake:
+- 3 cups all-purpose flour
+- 2 cups sugar
+- 2+1/2 teaspoons baking powder
+- 1/2 teaspoon salt
+- 1 cup vegetable oil
+- 4 large eggs
+- 1/4 cup orange juice
+- 2 teaspoons vanilla extract
+
+Filling:
+- 3 medium apples
+- 5 teaspoons sugar
+- 2 teaspoons ground cinnamon
+
+Peel and core the apples, and slice them in thin parallel slices.
+Toss the apples in cinnamon sugar.
+
+Grease and flour a 10-inch bundt pan, so that you'll be able to
+get the cake out. In a large mixing bowl, combine the flour, sugar,
+baking powder, and salt. In another bowl, combine the eggs, oil,
+orange juice, and vanilla. Stir the wet ingredients into the dry.
+Pour half the batter into the greased, floured pan; top with half
+of the apples and cinnamon sugar. Pour the rest of the batter;
+top with the rest of the apples and cinnamon sugar.
+
+Bake at 350°F about 70 to 90 minutes, until a toothpick comes
+out clean. Cool for five minutes, then loosen the cake with a
+table knife and invert onto a serving plate. Serve at room temperature.
+
+
 Korean Beef Patties
 -------------------
 
@@ -1458,6 +1499,46 @@ greased baking pan and bake for 30 to 35 minutes. Serve warm with
 fresh whipped cream.
 
 
+Piecrust and Quiche
+-------------------
+
+Yield: One single-crust 9-inch quiche
+
+> By Susan O'Keefe of "Baked by Susan" in Croton-on-Hudson, New York.
+> This is an excellent pie crust.
+
+Piecrust:
+- 1.5 cups all-purpose flour
+- 1/2 teaspoon salt
+- 1/2 cup butter
+- 1/4 cup ice water
+
+Quiche filling:
+- 3 eggs
+- 1.5 cups milk or cream
+- 1/2 teaspoon salt
+- 1/4 teaspoon pepper
+- 1 cup shredded cheese
+- 1 cup loosely chopped baby spinach, tomato, onion, etc.
+
+Preheat the oven to 350°F.
+Whisk the flour and salt together. Add the butter; using your fingers,
+work the butter and flour together until there are no visible pieces
+of butter. Add the ice water, and use the palm of your hand to push
+the dough until it comes together. Press the dough into a flat circle
+and refrigerate for 15 minutes while you prepare your pie filling.
+Using a rolling pin, roll the dough into a 10-inch circle on a floured
+countertop. Transfer the dough to a pie tin by rolling it back onto
+the rolling pin temporarily. Cut off the excess around the edges,
+tuck the remainder under, and crimp. "Dock" the pie shell (that is,
+perforate it with tiny holes) all over, using a fork.
+
+Whisk together the eggs, milk, salt, and pepper.
+Sprinkle the spinach and toppings into the pie shell, then the cheese,
+and pour the egg mixture over. Bake for 35 minutes. Let cool slightly
+before serving.
+
+
 Pork Fried Rice
 ---------------
 
@@ -1541,7 +1622,7 @@ Pumpkin Seeds
 
 Yield: 2 cups
 
-> This recipe is similar to ones from Allrecipe and GeniusKitchen.
+> This recipe is similar to ones from AllRecipes and GeniusKitchen.
 > One of these sites says to bake for 1 hour; the other says to
 > bake for 2 hours. Arthur thinks 2 hours is closer to the truth.
 
@@ -1898,6 +1979,8 @@ Yield: 4 to 6 servings
 > The original recipe calls for "2 cups of water", not beef stock.
 > If you use water, the filling may be soupier when fresh. After
 > refrigeration and reheating, you probably won't notice any difference.
+>
+> Multiply this recipe by 1.5 to fill two 9-inch pie pans.
 
 - 1 large onion, sliced
 - 1/3 cup shortening or oil
@@ -1913,14 +1996,15 @@ Yield: 4 to 6 servings
 - 1 cup frozen peas
 - pie pastry (9 to 10 inches)
 
-In a Dutch oven, lightly brown onion in shortening or oil.
+In a large non-stick pot, lightly brown onion in shortening or oil.
 Meanwhile, combine flour, salt, pepper, ginger and allspice in a
 plastic bag.  Place meat cubes in the bag, a few at a time, and
-shake well to coat.  Add meat to pot and brown on all sides.
+shake well to coat.  Temporarily remove the browned onion from the
+pot; add meat to pot and brown on all sides; then add the onion back.
 (Optionally, deglaze the bottom of the pot with 1/4 cup red wine
 at this point.)
 
-Add water, cover, and simmer for 1 hour or until meat is tender,
+Add stock, cover, and simmer for 1 hour or until meat is tender,
 stirring occasionally.  Add potatoes and carrots, cover, and cook
 for 15 minutes.  Stir in peas and continue cooking until all
 vegetables are tender, about 15 minutes.  Spoon meat mixture into
