@@ -1458,6 +1458,46 @@ greased baking pan and bake for 30 to 35 minutes. Serve warm with
 fresh whipped cream.
 
 
+Piecrust and Quiche
+-------------------
+
+Yield: One single-crust 9-inch quiche
+
+> By Susan O'Keefe of "Baked by Susan" in Croton-on-Hudson, New York.
+> This is an excellent pie crust.
+
+Piecrust:
+- 1.5 cups all-purpose flour
+- 1/2 teaspoon salt
+- 1/2 cup butter
+- 1/4 cup ice water
+
+Quiche filling:
+- 3 eggs
+- 1.5 cups milk or cream
+- 1/2 teaspoon salt
+- 1/4 teaspoon pepper
+- 1 cup shredded cheese
+- 1 cup loosely chopped baby spinach, tomato, onion, etc.
+
+Preheat the oven to 350°F.
+Whisk the flour and salt together. Add the butter; using your fingers,
+work the butter and flour together until there are no visible pieces
+of butter. Add the ice water, and use the palm of your hand to push
+the dough until it comes together. Press the dough into a flat circle
+and refrigerate for 15 minutes while you prepare your pie filling.
+Using a rolling pin, roll the dough into a 10-inch circle on a floured
+countertop. Transfer the dough to a pie tin by rolling it back onto
+the rolling pin temporarily. Cut off the excess around the edges,
+tuck the remainder under, and crimp. "Dock" the pie shell (that is,
+perforate it with tiny holes) all over, using a fork.
+
+Whisk together the eggs, milk, salt, and pepper.
+Sprinkle the spinach and toppings into the pie shell, then the cheese,
+and pour the egg mixture over. Bake for 35 minutes. Let cool slightly
+before serving.
+
+
 Pork Fried Rice
 ---------------
 
