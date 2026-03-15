@@ -1900,13 +1900,18 @@ sheets until they are cool.
 Sugar Cookies
 -------------
 
-Yield: varies with size of cookies
+Yield: about 80 cookies
 
 > This is my family's traditional Christmas sugar cookie recipe.  My
 > mother got it from her oldest sister.  The mace gives them an
 > unusual flavor.  This is a harder cookie than most sugar cookies,
 > so be sure to roll the dough thin.  The recipe says that you could
 > use a cookie press, but I've never tried that.
+>
+> Arthur adds: Unless you have big plans for the cookies, a half-recipe
+> (about 40 cookies) will probably suffice. Roll the dough to a thinness
+> that is as consistent as possible. Underdone cookies will harden up
+> and become better after a day of cooling.
 
 - 1 cup butter
 - 2 cups sugar

@@ -1093,7 +1093,7 @@ Frosting:
 - 1 stick (8 tablespoons) unsalted butter, softened at room temperature
 - 1 cup powdered sugar, plus more, if needed
 - 2 tablespoons Baileys Irish Cream liqueur
-- 1/4 teaspoon salt
+- 1/8 teaspoon salt
 
 Chocolate curls:
 - 3 ounces semisweet chocolate
@@ -1123,11 +1123,10 @@ gently remove from the pan and transfer to a wire rack to finish cooling.
 
 While the cake bakes and cools, make the frosting. In a stand mixer
 or a large bowl using a hand mixer, beat the butter until fluffy.
-Add in the powdered sugar, a bit at a time, and mix until thick and
-well-combined. Slowly stream in the Baileys as you mix, until smooth,
-and finally add in the salt. If the mixture is too thin, add a tablespoon
-of powdered sugar at a time until the frosting reaches the desired
-thickness. Set aside.
+Add in the powdered sugar and salt, a bit at a time, and mix until thick
+and well-combined. Slowly stream in the Baileys as you mix, until smooth.
+If the mixture is too thin, add a tablespoon of powdered sugar at a time
+until the frosting reaches the desired thickness. Set aside.
 
 To make the chocolate curls, combine the remaining semisweet chocolate
 and vegetable shortening in a microwave safe bowl and heat in 15-second
@@ -2159,6 +2158,10 @@ Yield: 4 servings
 > before serving.  In recent years, I've taken to adding some
 > yellow squash; it doesn't affect the flavor but makes the
 > stuffing lighter in texture (and calories).
+>
+> At the final step, make sure all the toast cubes are mixed well
+> with the other ingredients; otherwise the stuffing may just fall
+> apart into crumbs.
 
 - 1 box (6 oz) "Stove Top Stuffing"
 - butter and water, as directed on box
@@ -2167,6 +2170,7 @@ Yield: 4 servings
 - 1/4 cup chopped dried apricots
 - 1 small yellow squash, in small dice (optional)
 - 1 thick slice or 2 thin slices bread, toasted and cubed
+- 1/4 cup chicken stock or water, to taste
 
 The instructions on the box used to call for boiling the butter
 and water, then adding a seasoning mix and simmering 5 minutes
@@ -2178,8 +2182,10 @@ sliced almonds, I add them when the onions are almost done.
 Meanwhile, I put the chopped apricots in the water.  Once the
 onion is done, add the water, apricots, squash, and seasoning
 mix (if any).  Simmer 5 minutes.  Add the extra toast cubes along
-with the package of bread from the mix, and let sit, covered,
-off the heat for 5 minutes, then serve.
+with the package of bread from the mix. Stir vigorously to mix.
+Add a couple splashes of chicken stock or water to help it all
+bind together. Let sit, covered, off the heat for 5 minutes;
+then it is ready to serve.
 
 
 Sweet Potato Fritters
