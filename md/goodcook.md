@@ -1635,6 +1635,31 @@ foil-lined baking sheet, and bake at 250 degrees for 2 hours.
 To ensure they brown evenly, stir them around every 30 minutes or so.
 
 
+Rice Pudding
+------------
+
+Yield: Probably 4 to 6 servings
+
+> This recipe comes from _The Joy of Cooking_. The original calls for
+> "4 to 6 tablespoons sugar, or 1/2 cup brown sugar" and "2 to 4 eggs."
+> Sam's own recipe calls for scalding the milk in a saucepan first,
+> and for an unspecified amount of cinnamon.
+
+- 2 cups leftover cooked rice
+- 3 large eggs
+- 4 tablespoons sugar
+- 1 teaspoon vanilla
+- 1/8 teaspoon salt
+- 1.5 cups milk
+- 1 tablespoon soft butter
+
+Whip together the eggs, sugar, salt, and vanilla; combine with the
+milk. Put the cooked rice into a large oven-safe dish. Make sure it's
+well broken up and not caked together. Pour the pudding mixture over
+the rice and stir gently. Bake at 350 degrees for about 45 minutes,
+until the pudding is set. Serve hot or cold.
+
+
 Roasted Carrot Dip
 ------------------
 
@@ -1808,7 +1833,7 @@ Yield: 10 servings?
 > the making of the spaghetti sauce was Dad's (Tony's) department.
 > Dad says: "When I was making spaghetti sauce for myself, I would
 > definitely have started with some garlic, minced and sautéed.
-> But Virginia doesn’t much like garlic. I'd also have added one or
+> But Virginia doesn't much like garlic. I'd also have added one or
 > two spoonfuls of sugar, since I like sweet stuff. I think I used
 > three onions, three green peppers, and enough canned tomatoes to
 > fill the pot, although I don't remember how much that was.
@@ -2186,6 +2211,51 @@ with the package of bread from the mix. Stir vigorously to mix.
 Add a couple splashes of chicken stock or water to help it all
 bind together. Let sit, covered, off the heat for 5 minutes;
 then it is ready to serve.
+
+
+Stuffing (gluten-free)
+----------------------
+
+Yield: 8 to 10 servings
+
+> This recipe came from Erin Collins on "Meaningful Eats" (2016):
+> https://meaningfuleats.com/easy-gluten-free-stuffing-dairy-free/
+> It's similar to one Sam has made for the Keat family
+> Thanksgiving since about 2024. The original author wrote
+> "Canyon Bakehouse Mountain White, Schar Artisan Baker White Bread,
+> or Udi's White Bread all work great."
+
+- 1 loaf (12–18 oz) gluten-free bread, cubed
+- 2 tablespoons olive oil
+- 1/4 cup butter
+- 1 large onion, chopped
+- 1 cup (about 3 stalks) celery, chopped
+- 2 cloves garlic, minced
+- 1 teaspoon dried thyme
+- 1/2 teaspoon ground sage
+- 1/4 teaspoon salt
+- 1/4 teaspoon black pepper
+- 2 eggs
+- 1+1/2 cups chicken stock
+
+Cube the bread. Toss it in a bowl with 2 tablespoons of olive oil and a pinch of salt.
+Arrange the bread cubes on a baking sheet and bake at 300°F for 30 to 35 minutes,
+stirring every 10 minutes, until dry and slightly toasted. Let the toast cubes cool.
+
+Meanwhile, in a skillet over medium-low heat, melt the butter. Add the
+chopped onion and celery. Cook about 15 minutes, stirring occasionally,
+until completely soft. Add the minced garlic, thyme, sage, salt and pepper;
+stir and cook another 1 or 2 minutes.
+
+(If making ahead, stop here for the day. Refrigerate the veggies.)
+
+Preheat the oven to 375°F and grease a 9×13 baking dish.
+Heat the chicken stock until it's just simmering.
+Whisk the eggs in a large bowl. Add the hot stock to the eggs, a few tablespoons
+at a time, whisking constantly. Add the veggie mixture and toast cubes;
+gently stir to combine. Pour into the greased baking dish and cover tightly with
+aluminum foil. Bake covered at 375°F for 30 minutes, then take off the foil and
+bake for another 10 to 15 minutes until golden toasty.
 
 
 Sweet Potato Fritters
