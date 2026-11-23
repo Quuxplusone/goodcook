@@ -1635,6 +1635,71 @@ foil-lined baking sheet, and bake at 250 degrees for 2 hours.
 To ensure they brown evenly, stir them around every 30 minutes or so.
 
 
+Queen Mother's Cake
+-------------------
+
+Yield: one 9-inch cake
+
+> From Maida Heatter's "Book of Great Desserts" (1974):
+> https://archive.org/details/isbn_0446307106/page/49
+>
+> Greg Patent (2018) writes that rather than "375°F for 20 minutes,
+> then 350°F for 50 minutes," it should be more like
+> "375°F for 20 minutes, then 325°F for 30 minutes."
+> The original recipe didn't use almond flour, but rather called
+> for toasting 1.5 cups of almonds at 350°F for 15 minutes, then
+> food-processing them along with 1/4 cup of the sugar to reduce
+> clumping.
+
+Cake:
+- 6 ounces almond flour
+- 6 ounces semi-sweet chocolate (such as Callebaut), chopped
+- 3/4 cup sugar
+- 6 ounces unsalted butter
+- 6 large eggs, separated
+- 1/8 teaspoon salt
+- 1 teaspoon lemon juice
+
+Icing:
+- 1/2 cup heavy cream
+- 2 teaspoons instant coffee powder
+- 8 ounces semi-sweet chocolate, chopped
+
+Lightly toast the almond flour in a skillet over medium heat, stirring
+constantly, until golden and fragrant; remove into a bowl.
+Meanwhile, butter the bottom and sides of a 9-inch springform pan,
+then dust it all over with cocoa powder or fine dry bread crumbs.
+
+Melt the chocolate in a double boiler on moderate heat, just until melted.
+
+In the large bowl of an electric mixer, beat the butter until soft.
+Continue mixing on low speed as you add 1/4 cup sugar, then the egg yolks
+(one at a time), then the melted chocolate, then the almond flour.
+
+Separately, beat the egg whites with the salt and lemon juice until soft
+peaks form. Beat slowly as you add the remaining 1/4 cup sugar. Then beat
+on high speed until the whites form a straight sharp point when you raise
+the beaters. Do not overbeat.
+
+Stir a spoonful of whites into the chocolate mixture to soften it a bit.
+Then, in three additions, fold in the remaining whites. Do not handle the
+batter more than necessary.
+
+Turn the batter into the buttered-and-powdered pan. Bake at 375°F for
+20 minutes, then reduce to 350°F for another 50 minutes. The center of
+the cake should remain soft and moist. Remove and let stand for at least
+30 minutes before attempting to undo the springform.
+
+Meanwhile, prepare the icing: Scald the cream in a saucepan over medium
+heat until it begins to form small bubbles around the edges or a thin skin
+on top. Add the coffee powder and whisk to dissolve. Add the chocolate
+and heat, stirring occasionally, for another minute. Then remove the heat
+and whisk until the chocolate is all melted and the mixture is smooth.
+Let stand off the heat, stirring occasionally, for about 15 minutes,
+until it begins to thicken. Stir to mix, then pour over the top of the
+cake.
+
+
 Rice Pudding
 ------------
 
