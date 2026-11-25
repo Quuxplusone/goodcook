@@ -2249,33 +2249,34 @@ Yield: 4 servings
 > yellow squash; it doesn't affect the flavor but makes the
 > stuffing lighter in texture (and calories).
 >
-> At the final step, make sure all the toast cubes are mixed well
-> with the other ingredients; otherwise the stuffing may just fall
-> apart into crumbs.
+> The instructions on the box used to call for boiling the butter
+> and water, then adding a seasoning mix and simmering 5 minutes
+> before adding the bread cubes.  Recently (since the 2000s),
+> they've been putting the seasoning directly on the bread cubes
+> and omit the simmering.
 
 - 1 box (6 oz) "Stove Top Stuffing"
 - butter and water, as directed on box
 - 1/8 cup minced onion
 - 1 tablespoon sliced almonds (optional)
 - 1/4 cup chopped dried apricots
-- 1 small yellow squash, in small dice (optional)
+- 1 small yellow squash, in small dice
 - 1 thick slice or 2 thin slices bread, toasted and cubed
 - 1/4 cup chicken stock or water, to taste
 
-The instructions on the box used to call for boiling the butter
-and water, then adding a seasoning mix and simmering 5 minutes
-before adding the bread cubes.  Recently, they've been putting
-the seasoning directly on the bread cubes and omit the simmering.
-Instead, I start out by melting the butter in the pan and slowly
-cooking the onion in it until it starts to color.  If I'm using
-sliced almonds, I add them when the onions are almost done.
-Meanwhile, I put the chopped apricots in the water.  Once the
+Start by melting the butter in the pan and slowly
+cooking the onion in it until it starts to color. If using
+sliced almonds, add them when the onions are almost done.
+Meanwhile, put the chopped apricots in the water. Once the
 onion is done, add the water, apricots, squash, and seasoning
-mix (if any).  Simmer 5 minutes.  Add the extra toast cubes along
-with the package of bread from the mix. Stir vigorously to mix.
-Add a couple splashes of chicken stock or water to help it all
-bind together. Let sit, covered, off the heat for 5 minutes;
-then it is ready to serve.
+mix (if any). Simmer 5 minutes. Add the package of toast-and-herbs
+from the mix and stir, then add the extra toast cubes too.
+Stir vigorously to mix. Add a couple splashes of chicken stock
+or water to help it all bind together. Make sure it's all well
+mixed; otherwise the stuffing may just fall apart into crumbs.
+
+Let sit, covered, off the heat for 5 minutes; then it is
+ready to serve.
 
 
 Stuffing (gluten-free)
@@ -2287,40 +2288,54 @@ Yield: 8 to 10 servings
 > https://meaningfuleats.com/easy-gluten-free-stuffing-dairy-free/
 > It's similar to one Sam has made for the Keat family
 > Thanksgiving since about 2024. The original author wrote
-> "Canyon Bakehouse Mountain White, Schar Artisan Baker White Bread,
-> or Udi's White Bread all work great."
+> "Canyon Bakehouse Mountain White, Schär Artisan Baker White Bread,
+> or Udi's White Bread all work great." The original recipe included
+> 2 cups of chopped celery, which we omit.
+>
+> Sam says it is important to use two different kinds of bread
+> (for example, sourdough plus sandwich bread), for variety.
 
-- 1 loaf (12–18 oz) gluten-free bread, cubed
-- 2 tablespoons olive oil
-- 1/4 cup butter
-- 1 large onion, chopped
-- 1 cup (about 3 stalks) celery, chopped
-- 2 cloves garlic, minced
-- 1 teaspoon dried thyme
-- 1/2 teaspoon ground sage
-- 1/4 teaspoon salt
-- 1/4 teaspoon black pepper
-- 2 eggs
-- 1+1/2 cups chicken stock
+- 2 loaves (8–10 oz each) gluten-free bread, cubed
+- 4 tablespoons olive oil
+- 1/2 cup butter
+- 2 large onions, chopped
+- 4 cloves garlic, minced
+- 3 teaspoons poultry seasoning (oregano, rosemary, sage, thyme, ginger, pepper)
+- 1/2 teaspoon salt
+- 1/2 teaspoon black pepper
+- 4 eggs
+- 3 cups chicken stock
+- 1 tablespoon liquid aminos
+- 2 packages (6.4 oz each) Brown-n-Serve breakfast sausages
+- 1 small yellow squash, in small dice
+- 1/2 cup chopped dried apricots
+- 3 tablespoons slivered almonds
 
-Cube the bread. Toss it in a bowl with 2 tablespoons of olive oil and a pinch of salt.
-Arrange the bread cubes on a baking sheet and bake at 300°F for 30 to 35 minutes,
-stirring every 10 minutes, until dry and slightly toasted. Let the toast cubes cool.
+Cube the bread. Toss it in a bowl with 4 tablespoons of olive oil, half the
+poultry seasoning, and a pinch of salt. Arrange the bread cubes on a baking
+sheet and bake at 300°F for 30 to 35 minutes, stirring every 10 minutes,
+until dry and slightly toasted. Let the toast cubes cool.
 
+Put the chopped apricots in hot water to soften.
 Meanwhile, in a skillet over medium-low heat, melt the butter. Add the
-chopped onion and celery. Cook about 15 minutes, stirring occasionally,
-until completely soft. Add the minced garlic, thyme, sage, salt and pepper;
-stir and cook another 1 or 2 minutes.
+chopped onion. Cook about 15 minutes, stirring occasionally,
+until completely soft. Add the minced garlic and seasonings;
+stir and cook another 1 or 2 minutes. Add the slivered almonds, squash,
+and drained apricots; stir again.
 
-(If making ahead, stop here for the day. Refrigerate the veggies.)
+In a second skillet, brown the sausage. Chop it into slices.
 
 Preheat the oven to 375°F and grease a 9×13 baking dish.
 Heat the chicken stock until it's just simmering.
-Whisk the eggs in a large bowl. Add the hot stock to the eggs, a few tablespoons
-at a time, whisking constantly. Add the veggie mixture and toast cubes;
-gently stir to combine. Pour into the greased baking dish and cover tightly with
-aluminum foil. Bake covered at 375°F for 30 minutes, then take off the foil and
-bake for another 10 to 15 minutes until golden toasty.
+Whisk the eggs and liquid aminos in a large bowl. Add the hot stock to
+the eggs, a few tablespoons at a time, whisking constantly. In an even
+larger bowl, combine the veggie mixture, chopped sausages, and toast cubes;
+add the egg-stock mixture last. Gently stir to combine. There will be a
+lot of liquid; don't be afraid!
+
+Pour into the greased baking dish and cover tightly with aluminum foil.
+Bake covered at 375°F for 30 minutes, then take off the foil and bake
+for another 10 to 15 minutes until golden toasty.
 
 
 Sweet Potato Fritters
